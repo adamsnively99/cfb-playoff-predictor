@@ -8,11 +8,15 @@ def load_schedule(teams):
         lines = schedule_file.readlines()
         for line in lines:
             game = line.split(',')
-            name_a = game[5]
-            name_b = game[8]
+            if len(game[7]) > 0:
+                name_a = game[5]
+                name_b = game[8]
+            else:
+                name_a = game[8]
+                name_b = game[5]
             name_a = format_name(name_a)
             name_b = format_name(name_b)
-            if name_a in teams and name_b in teams:  # TODO: Fix neutral site calculations for seasons 2018 and before
+            if name_a in teams and name_b in teams:
                 schedule.append({'home_team': name_b, 'visiting_team': name_a, 'week': game[1],
                              'neutral_site': bool(len(game[11]) > 0)})
             else:
@@ -27,3 +31,6 @@ def format_name(name):
     for c in "()1234560789":
         name = name.replace(c, '')
     return name.strip()
+
+
+
