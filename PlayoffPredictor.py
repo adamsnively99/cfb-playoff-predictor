@@ -2,6 +2,10 @@ def predict_playoff(teams):
     return [get_highest_SOR(teams), get_highest_SOR(teams), get_highest_SOR(teams), get_highest_SOR(teams)]
 
 
+def get_first_two_out(teams):
+    return [get_highest_SOR(teams), get_highest_SOR(teams)]
+
+
 def get_highest_SOR(teams):
     #for team in teams:
         #print(team)
