@@ -1,4 +1,7 @@
 import Settings
+
+
+# Returns dictionary of teams loaded from S&P+ projections CSV file specified by season in Settings.py
 def load_projections():
     teams = {}
     with open(Settings.season + 'Projections.csv', 'r') as proj_file:

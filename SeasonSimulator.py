@@ -3,6 +3,8 @@ from scipy import stats
 import random
 import numpy
 
+
+# Calculates standard deviation of team ratings
 def calc_stdev_ratings(teams):
     ratings = []
     for team in teams:
@@ -10,6 +12,8 @@ def calc_stdev_ratings(teams):
             ratings.append(teams.get(team).get('overall_rating'))
     return numpy.std(ratings)
 
+
+# Simulates all games in a season, updates records, conference standings accordingly
 def simulate_season(teams, schedule):
     rating_stdev = calc_stdev_ratings(teams)
     for game in schedule:
@@ -21,31 +25,36 @@ def simulate_season(teams, schedule):
         simulate_game(home_team, away_team, is_neutral_site, rating_stdev)
         teams.update({home_team_name: home_team})
         teams.update({away_team_name: away_team})
-    simulate_conference_champs(teams)
+    simulate_conference_champs(teams, rating_stdev)
 
 
+# Simulates a game between home_team and away_team and updates records accordingly
 def simulate_game(home_team, away_team, is_neutral_site, rating_stdev):
     home_field_advantage = 0 if is_neutral_site else Constants.HOME_FIELD_ADVANTAGE
     home_team_odds = stats.norm.cdf(
-        (float(home_team.get('overall_rating')) - float(away_team.get('overall_rating')) + home_field_advantage) / rating_stdev)
-    average_team_odds = 1 - stats.norm.cdf((home_field_advantage - float(away_team.get('overall_rating'))) / rating_stdev)
+        (float(home_team.get('overall_rating'))
+         - float(away_team.get('overall_rating')) + home_field_advantage) / rating_stdev)
+    average_team_odds = 1 - \
+        stats.norm.cdf((home_field_advantage - float(away_team.get('overall_rating'))) / rating_stdev)
     odds = random.random()
-    if home_team_odds > odds:  #Home team wins in simulation
-        #print('home team won')
+    if home_team_odds > odds:  # Home team wins in simulation
         update_after_game(home_team, away_team, average_team_odds)
-    else:  #Home Team loses
+    else:  # Home Team loses
         update_after_game(away_team, home_team, 1 - average_team_odds)
 
 
-def simulate_conference_champs(teams):
+# Projects conference championship game according to conference standings, updates records accordingly
+def simulate_conference_champs(teams, rating_stdev):
     for conference in Constants.CONFERENCES:
         division_a = conference
         division_b = Constants.CONFERENCES.get(division_a)
-        team_a_name = get_best_record(teams, division_a, '')
+        team_a_name = get_best_conference_record(teams, division_a, '')
         team_a = teams.get(team_a_name)
-        team_b = teams.get(get_best_record(teams, division_b, team_a_name))
-        simulate_game(team_a, team_b, True)
+        team_b = teams.get(get_best_conference_record(teams, division_b, team_a_name))
+        simulate_game(team_a, team_b, True, rating_stdev)
 
+
+# Updates team stats after a simulated game
 def update_after_game(winning_team, losing_team, average_team_odds):
     winning_team.get('wins-over').append(losing_team.get('name'))
     losing_team.get('losses-to').append(winning_team.get('name'))
@@ -53,14 +62,15 @@ def update_after_game(winning_team, losing_team, average_team_odds):
     losing_team.update({'losses': losing_team.get('losses') + 1})
 
     winning_team.update({"SOR": winning_team.get('SOR') * average_team_odds})
-    losing_team.update({"SOR": losing_team.get('SOR') / (1 - average_team_odds) +
+    losing_team.update({"SOR": losing_team.get('SOR') * (1 - average_team_odds) +
                                losing_team.get('SOR') / (1 - average_team_odds)})
     if winning_team.get('conf') == losing_team.get('conf'):
         winning_team.update({'conf wins': winning_team.get('conf wins') + 1})
         losing_team.update({'conf losses': losing_team.get('conf losses') + 1})
 
 
-def get_best_record(teams, division, exclusion_team):
+# Returns name of team with best conference record up through head-to-head tiebreakers
+def get_best_conference_record(teams, division, exclusion_team):
     wins = -1
     best_team = ''
     for team_name in division:
