@@ -2,10 +2,11 @@ import ProjectionsLoader
 import ScheduleLoader
 import SeasonSimulator
 import PlayoffPredictor
+import Settings
 
 
 playoff_counts = {}
-for i in range(5000):
+for i in range(Settings.simulations):
     teams = ProjectionsLoader.load_projections()
     schedule = ScheduleLoader.load_schedule(teams)
     SeasonSimulator.simulate_season(teams, schedule)
