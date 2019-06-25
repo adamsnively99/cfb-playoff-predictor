@@ -1,2 +1,2 @@
-season = '2019'
-simulations = 1000
+season = '2018'
+simulations = 5000

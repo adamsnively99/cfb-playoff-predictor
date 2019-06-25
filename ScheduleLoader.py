@@ -8,7 +8,7 @@ def load_schedule(teams):
         lines = schedule_file.readlines()
         for line in lines:
             game = line.split(',')
-            if len(game[7]) > 0:
+            if len(game[7]) > 0 and game[7] != '\n':
                 name_a = game[5]
                 name_b = game[8]
             else:

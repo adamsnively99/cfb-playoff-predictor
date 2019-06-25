@@ -4,6 +4,15 @@ import SeasonSimulator
 import PlayoffPredictor
 import Settings
 
+def get_most_playoff(teams):
+    most_playoffs = 0
+    most_team = ''
+    for team in teams:
+        if teams.get(team) > most_playoffs:
+            most_team = team
+            most_playoffs = teams.get(team)
+    teams.pop(most_team)
+    return [most_team, most_playoffs]
 
 playoff_counts = {}
 for i in range(Settings.simulations):
@@ -12,16 +21,14 @@ for i in range(Settings.simulations):
     SeasonSimulator.simulate_season(teams, schedule)
 
     playoff = PlayoffPredictor.get_best_records(teams, 4)
-    out = PlayoffPredictor.get_best_records(teams, 4)
     for team in playoff:
-        print('playoff ' + str(i) + ' contains: ' + team)
         if team not in playoff_counts:
             playoff_counts.update({team: 1})
         else:
             playoff_counts.update({team: playoff_counts.get(team) + 1})
 
-    for team in out:
-        print('playoff ' + str(i) + ' leave: ' + team + ' out')
 
-for team in playoff_counts:
-    print(team + " made the playoff " + str(playoff_counts.get(team)) + ' times')
+
+while len(playoff_counts) > 0:
+    team = get_most_playoff(playoff_counts)
+    print(team[0] + " made the playoff " + str(team[1]) + ' times')

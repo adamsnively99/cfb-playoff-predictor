@@ -10,7 +10,7 @@ def calc_avg_top_team(teams):
         if team != 'FCS':
             ratings.append(teams.get(team).get('overall_rating'))
     ratings.sort()
-    return (ratings[129] + ratings[128] + ratings[127] + ratings[126]) / 4
+    return (ratings[129] + ratings[128] + ratings[127] + ratings[126] + ratings[125]) / 5
 
 
 # Calculates standard deviation of team ratings
