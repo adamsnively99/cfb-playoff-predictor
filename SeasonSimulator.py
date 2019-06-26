@@ -10,7 +10,8 @@ def calc_avg_top_team(teams):
         if team != 'FCS':
             ratings.append(teams.get(team).get('overall_rating'))
     ratings.sort()
-    return (ratings[129] + ratings[128] + ratings[127] + ratings[126] + ratings[125]) / 5
+    return (ratings[len(teams) - 1] + ratings[len(teams) - 2] + ratings[len(teams) - 3] + ratings[len(teams) - 4]
+            + ratings[len(teams) - 5]) / 5
 
 
 # Calculates standard deviation of team ratings
@@ -64,9 +65,13 @@ def simulate_conference_champs(teams, rating_stdev, avg_top_team):
         division_a = conference
         division_b = Constants.CONFERENCES.get(division_a)
         team_a_name = get_best_conference_record(teams, division_a, '')
+        team_b_name = get_best_conference_record(teams, division_b, team_a_name)
         team_a = teams.get(team_a_name)
-        team_b = teams.get(get_best_conference_record(teams, division_b, team_a_name))
+        team_b = teams.get(team_b_name)
         simulate_game(team_a, team_b, True, rating_stdev, avg_top_team)
+        teams.update({team_a_name: team_a})
+        teams.update({team_b_name: team_b})
+
 
 
 # Updates team stats after a simulated game

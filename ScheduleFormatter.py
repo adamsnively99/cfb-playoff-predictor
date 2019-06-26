@@ -1,8 +1,8 @@
-with open('2017SchedulePreformat.csv', 'r') as file:
+with open('2016SchedulePreformat.csv', 'r') as file:
     lines = file.readlines()
-    neutral_site_games = {29, 58, 4, 22, 77, 54, 52, 90, 91, 440, 683, 270, 534, 706}
+    neutral_site_games = {0, 21, 34, 42, 44, 82, 45, 30, 86, 149, 275, 284, 325, 382, 436, 529, 604}
 
-    with open('2017Schedule.csv', 'w') as toFile:
+    with open('2016Schedule.csv', 'w') as toFile:
         print(type(lines))
         for i in range(len(lines)):
             line = lines[i].split(',')
