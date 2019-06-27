@@ -3,7 +3,6 @@ from string_formatter import format_team_name
 
 
 # TODO: Organize project into folders according to Python standards
-# TODO: Extract string reformatting out of this class
 # Returns dictionary of teams loaded from S&P+ projections CSV file specified by season in Settings.py
 def load_projections():
     teams = {}
@@ -17,6 +16,11 @@ def load_projections():
                                     'wins': 0, 'losses': 0, 'SOR': 1, 'conf wins': 0,
                                     'conf losses': 0, 'wins-over': [], 'losses-to': []}})
 
+    teams = load_conferences(teams)
+    return teams
+
+
+def load_conferences(teams):
     with open(Settings.data_folder_path + Settings.conferences_file_ending, 'r') as conf_file:
         lines = conf_file.readlines()
         for input in lines:
