@@ -3,15 +3,16 @@ from scipy import stats
 import random
 import numpy
 
-
+#TODO: Refactor dictionary into object for team
 def calc_avg_top_team(teams):
     ratings = []
     for team in teams:
         if team != 'FCS':
             ratings.append(teams.get(team).get('overall_rating'))
     ratings.sort()
-    return (ratings[len(teams) - 1] + ratings[len(teams) - 2] + ratings[len(teams) - 3] + ratings[len(teams) - 4]
-            + ratings[len(teams) - 5]) / 5
+    return (ratings[len(teams) - 2] + ratings[len(teams) - 3] + 
+            ratings[len(teams) - 4] + ratings[len(teams) - 5] + 
+            ratings[len(teams) - 6]) / 5
 
 
 # Calculates standard deviation of team ratings
@@ -23,7 +24,9 @@ def calc_stdev_ratings(teams):
     return numpy.std(ratings)
 
 
-# Simulates all games in a season, updates records, conference standings accordingly
+# TODO: Add option to simulate season with one or more games predetermined
+# Simulates all games in a season, updates records, conference standings accord
+#ingly
 def simulate_season(teams, schedule):
     rating_stdev = calc_stdev_ratings(teams)
     avg_top_team = calc_avg_top_team(teams)
@@ -33,7 +36,8 @@ def simulate_season(teams, schedule):
         home_team = teams.get(home_team_name)
         away_team = teams.get(away_team_name)
         is_neutral_site = game.get('neutral_site')
-        simulate_game(home_team, away_team, is_neutral_site, rating_stdev, avg_top_team)
+        simulate_game(home_team, away_team, is_neutral_site, 
+                rating_stdev, avg_top_team)
         teams.update({home_team_name: home_team})
         teams.update({away_team_name: away_team})
     simulate_conference_champs(teams, rating_stdev, avg_top_team)
@@ -104,3 +108,5 @@ def get_best_conference_record(teams, division, exclusion_team):
                 if team_name not in teams.get(best_team).get('wins-over'):
                     best_team = team_name
     return best_team
+
+

@@ -12,6 +12,5 @@ def get_highest_SOR(teams):
         if teams.get(team).get('SOR') < highest_SOR:
             highest_SOR = teams.get(team).get('SOR')
             highest_team = team
-    print(teams.get(highest_team))
     teams.pop(highest_team)
     return highest_team

@@ -4,7 +4,7 @@ import Settings
 # Returns schedule of CFB games in season
 def load_schedule(teams):
     schedule = []
-    with open(Settings.season + 'Schedule.csv', 'r') as schedule_file:
+    with open('cfb-playoff-predictor/data/' + Settings.simulate_season + 'Schedule.csv', 'r') as schedule_file:
         lines = schedule_file.readlines()
         for line in lines:
             game = line.split(',')
