@@ -1,5 +1,5 @@
 import Settings
-
+import string_formatter
 
 # Returns schedule of CFB games in season
 def load_schedule(teams):
@@ -15,8 +15,8 @@ def load_schedule(teams):
             else:
                 name_a = game[8]
                 name_b = game[5]
-            name_a = format_name(name_a)
-            name_b = format_name(name_b)
+            name_a = string_formatter.format_team_name(name_a, "()1234560789")
+            name_b = string_formatter.format_team_name(name_b, "()1234560789")
             if name_a in teams and name_b in teams:
                 schedule.append({'home_team': name_b, 'visiting_team': name_a, 'week': game[1],
                              'neutral_site': bool(len(game[11]) > 0)})
@@ -27,11 +27,6 @@ def load_schedule(teams):
                                  'neutral_site': bool(len(game[11]) > 0)})
     return schedule
 
-
-def format_name(name):
-    for c in "()1234560789":
-        name = name.replace(c, '')
-    return name.strip()
 
 
 
