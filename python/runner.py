@@ -15,8 +15,11 @@ def get_most_playoff(teams):
     teams.pop(most_team)
     return [most_team, most_playoffs]
 
+
+# TODO: Allow teams and schedule to be reset to they only have to be read in once
 playoff_counts = {}
 for i in range(Settings.simulation_count):
+    print(i)
     teams = ProjectionsLoader.load_projections()
     schedule = ScheduleLoader.load_schedule(teams)
     SeasonSimulator.simulate_season(teams, schedule)
@@ -26,7 +29,6 @@ for i in range(Settings.simulation_count):
             playoff_counts.update({team: 1})
         else:
             playoff_counts.update({team: playoff_counts.get(team) + 1})
-
 
 
 while len(playoff_counts) > 0:

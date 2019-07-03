@@ -1,13 +1,15 @@
 import Constants
+import Settings
 from scipy import stats
 import random
 import numpy
 
-#TODO: Refactor dictionary into object for team
+
+# TODO: Refactor dictionary into object for team
 def calc_avg_top_team(teams):
     ratings = []
     for team in teams:
-        if team != 'FCS':
+        if team != Settings.fcs:
             ratings.append(teams.get(team).get('overall_rating'))
     ratings.sort()
     return (ratings[len(teams) - 2] + ratings[len(teams) - 3] + 
@@ -19,7 +21,7 @@ def calc_avg_top_team(teams):
 def calc_stdev_ratings(teams):
     ratings = []
     for team in teams:
-        if team != 'FCS':
+        if team != Settings.fcs:
             ratings.append(teams.get(team).get('overall_rating'))
     return numpy.std(ratings)
 
@@ -36,8 +38,7 @@ def simulate_season(teams, schedule):
         home_team = teams.get(home_team_name)
         away_team = teams.get(away_team_name)
         is_neutral_site = game.get('neutral_site')
-        simulate_game(home_team, away_team, is_neutral_site, 
-                rating_stdev, avg_top_team)
+        simulate_game(home_team, away_team, is_neutral_site, rating_stdev, avg_top_team)
         teams.update({home_team_name: home_team})
         teams.update({away_team_name: away_team})
     simulate_conference_champs(teams, rating_stdev, avg_top_team)
@@ -77,7 +78,6 @@ def simulate_conference_champs(teams, rating_stdev, avg_top_team):
         teams.update({team_b_name: team_b})
 
 
-
 # Updates team stats after a simulated game
 def update_after_game(winning_team, losing_team, top_team_odds_winner, top_team_odds_loser):
     winning_team.get('wins-over').append(losing_team.get('name'))
@@ -86,8 +86,8 @@ def update_after_game(winning_team, losing_team, top_team_odds_winner, top_team_
     losing_team.update({'losses': losing_team.get('losses') + 1})
 
     winning_team.update({"SOR": winning_team.get('SOR') * top_team_odds_winner})
-    losing_team.update({"SOR": losing_team.get('SOR') * (top_team_odds_loser) +
-                               losing_team.get('SOR') / (top_team_odds_loser)})
+    losing_team.update({"SOR": losing_team.get('SOR') * top_team_odds_loser +
+                               losing_team.get('SOR') / top_team_odds_loser})
     if winning_team.get('conf') == losing_team.get('conf'):
         winning_team.update({'conf wins': winning_team.get('conf wins') + 1})
         losing_team.update({'conf losses': losing_team.get('conf losses') + 1})
