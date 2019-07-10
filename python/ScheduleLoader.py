@@ -21,8 +21,6 @@ def add_game_to_schedule(teams, game, schedule):
     slate = configure_home_away_teams(teams, game, team_a, team_b)
     home_team = slate[0]
     away_team = slate[1]
-    if is_neutral_site(game):
-        print(home_team + ' plays ' + away_team + ' at a neutral site')
     schedule.append({'home_team': home_team, 'visiting_team': away_team, 'week': game[1],
                          'neutral_site': is_neutral_site(game)})
 
@@ -38,10 +36,7 @@ def configure_home_away_teams(teams, game, away, home):
         home = temp
 
     if away not in teams:
-        print(away)
         away = Settings.fcs
     elif home not in teams:
-        print(home)
         home = Settings.fcs
-    print(away + ' at ' + home)
     return [home, away]

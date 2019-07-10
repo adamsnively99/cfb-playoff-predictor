@@ -1,5 +1,5 @@
-simulate_season = '2017'
-simulation_count = 5000
+simulate_season = '2016'
+simulation_count = 1000
 format_schedule_season = '2019'
 data_folder_path = 'cfb-playoff-predictor/data/'
 schedule_file_ending = 'Schedule.csv'
