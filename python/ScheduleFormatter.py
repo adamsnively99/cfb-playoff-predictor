@@ -7,8 +7,10 @@ with open(Settings.data_folder_path + Settings.format_schedule_season + Settings
         for i in range(len(lines)):
             line = lines[i].split(',')
 
-            # Todo: Figure out a less ugly way to do this
+            for j in range(len(line) - 1):
+                toFile.write(line[j] + ',')
+
             if i in Settings.neutral_site_games:
-                toFile.write(line[0] + ',' + line[1] + ',' + line[2] + ',' + line[3] + ',' + line[4] + ',' + line[5] + ',' + line[6] + ',' + line[7] + ',' + line[8] + ',' + line[9] + ',' + line[10] + ',' + line[11])
+                toFile.write(line[len(line) - 1])
             else:
-                toFile.write(line[0] + ',' + line[1] + ',' + line[2] + ',' + line[3] + ',' + line[4] + ',' + line[5] + ',' + line[6] + ',' + line[7] + ',' + line[8] + ',' + line[9] + ',' + line[10] + ',\n')
+                toFile.write('\n')
