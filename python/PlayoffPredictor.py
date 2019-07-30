@@ -3,6 +3,7 @@ def get_best_records(teams, n):
     best_records = []
     for i in range(n):
         get_highest_SOR(teams, best_records)
+    best_records.sort()
     return best_records
 
 

@@ -5,7 +5,6 @@ import random
 import numpy
 from team import Team
 
-# TODO: Refactor dictionary into object for team
 def calc_avg_top_team(teams):
     ratings = []
     for team_name in teams:
@@ -87,7 +86,6 @@ def update_after_game(winning_team, losing_team, top_team_odds_winner, top_team_
 # Returns name of team with best conference record up through head-to-head tiebreakers
 def get_best_conference_record(teams, division, exclusion_team):
     wins = -1
-    best_team = ''
     for team_name in division:
         team = teams.get(team_name)
         team_wins = team.conf_wins

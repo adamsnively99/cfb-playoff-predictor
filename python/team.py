@@ -3,6 +3,7 @@ class Team:
     def __init__(self, name, rating):
         self.name = name
         self.conference = 'IND'
+        self.division = 'IND'
         self.rating = rating
         self.wins = 0
         self.losses = 0
@@ -26,10 +27,6 @@ class Team:
             self.losses += 1
             if self.conference != 'IND' and opponent.conference == self.conference:
                 self.conf_losses += 1
-
-        print(self.name + ' record before playing ' + opponent.name + ': ' + str(old_sor))
-        print(self.name + ' record after playing ' + opponent.name + ': ' + str(self.strength_of_record))
-        print(win)
 
     def reset(self):
         self.wins = 0
