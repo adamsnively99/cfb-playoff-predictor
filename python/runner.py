@@ -4,7 +4,7 @@ import SeasonSimulator
 import PlayoffPredictor
 import Settings
 
-#TODO: Count unique playoff fields
+
 def get_most_playoff(playoff_counts):
     most_playoffs = 0
     most_team = ''
@@ -16,8 +16,9 @@ def get_most_playoff(playoff_counts):
     return [most_team, most_playoffs]
 
 
-# TODO: Allow teams and schedule to be reset so they only have to be read in once
+# TODO: Factor all code in runner.py into methods
 playoff_counts = {}
+playoff_fields = {}
 teams = ProjectionsLoader.load_projections()
 schedule = ScheduleLoader.load_schedule(teams)
 
@@ -31,6 +32,13 @@ for i in range(Settings.simulation_count):
         else:
             playoff_counts.update({team: playoff_counts.get(team) + 1})
 
+    playoff_field = str(playoff)
+
+    if str(playoff_field) not in playoff_fields:
+        playoff_fields.update({str(playoff_field): 1})
+    else:
+        playoff_fields.update({str(playoff_field): playoff_fields.get(str(playoff_field)) + 1})
+
     for team_name in teams:
         teams.get(team_name).reset()
 
@@ -38,4 +46,8 @@ for i in range(Settings.simulation_count):
 while len(playoff_counts) > 0:
     team = get_most_playoff(playoff_counts)
     print(team[0] + " made the playoff " + str(team[1]) + ' times')
+
+# Todo: Sort Playoff fields by occurrences
+for playoff in playoff_fields:
+    print(str(playoff) + ": " + str(playoff_fields.get(playoff)))
 

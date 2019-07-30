@@ -2,6 +2,7 @@ import Settings
 from string_formatter import format_team_name
 from team import Team
 
+
 # TODO: Organize project into folders according to Python standards
 # Returns dictionary of teams loaded from S&P+ projections CSV file specified by season in Settings.py
 def load_projections():
@@ -25,5 +26,6 @@ def load_conferences(teams):
             name = format_team_name(pair[0], '()')
             team = teams.get(name)
             team.conference = pair[1]
+            team.division = pair[2]
             teams.update({name: team})
     return teams
