@@ -57,8 +57,10 @@ def simulate_game(home_team, away_team, is_neutral_site, rating_stdev, avg_top_t
         (avg_top_team - float(home_team.rating) - home_field_advantage) / rating_stdev)
     if home_team.name == game.simulate_winner(home_team_odds):  # Home team wins in simulation
         update_after_game(home_team, away_team, top_team_odds_home, top_team_odds_away)
+        return home_team
     else:  # Home Team loses
         update_after_game(away_team, home_team, top_team_odds_away, top_team_odds_home)
+        return away_team
 
 
 # Projects conference championship game according to conference standings, updates records accordingly
@@ -70,8 +72,9 @@ def simulate_conference_champs(teams, rating_stdev, avg_top_team):
         team_b_name = get_best_conference_record(teams, division_b, team_a_name)
         team_a = teams.get(team_a_name)
         team_b = teams.get(team_b_name)
-        simulate_game(team_a, team_b, True, rating_stdev, avg_top_team, Game(team_a.name, team_b.name, True))
-        teams.update({team_a_name: team_a})
+        champion = simulate_game(team_a, team_b, True, rating_stdev, avg_top_team, Game(team_a.name, team_b.name, True))
+        champion.conf_titles += 1
+        teams.update({champion.name: champion})
         teams.update({team_b_name: team_b})
 
 

@@ -17,9 +17,11 @@ MWC_MOUNTAIN = ('Air Force', 'Boise State', 'Colorado State', 'New Mexico', 'Uta
 MWC_WEST = ('Fresno State', 'Nevada', 'Hawaii', 'Nevada-Las Vegas', 'San Diego State', 'San Jose State')
 SUN_BELT_WEST = ('Arkansas State', 'Louisiana', 'Louisiana-Monroe', 'South Alabama', 'Texas State')
 SUN_BELT_EAST =('Coastal Carolina', 'New Mexico State', 'Appalachian State', 'Georgia Southern', 'Georgia State', 'Troy')
+SUN_BELT = ('Arkansas State', 'Louisiana', 'Louisiana-Monroe', 'South Alabama', 'Texas State',
+                 'New Mexico State', 'Appalachian State', 'Georgia Southern', 'Georgia State', 'Troy')
 CUSA_WEST = ('Louisiana Tech', 'North Texas', 'Rice', 'Southern Mississippi', 'Texas-El Paso', 'Texas-San Antonio', 'Alabama-Birmingham')
 CUSA_EAST = ('Charlotte', 'Florida Atlantic', 'Florida International', 'Marshall', 'Old Dominion', 'Western Kentucky',
              'Middle Tennessee State')
 CONFERENCES = {SEC_WEST: SEC_EAST, BIG_TEN_WEST: BIG_TEN_EAST, PAC_TWELVE_SOUTH: PAC_TWELVE_NORTH,
         ACC_ATLANTIC: ACC_COASTAL, MWC_WEST: MWC_MOUNTAIN, MAC_WEST: MAC_EAST,
-               CUSA_EAST: CUSA_WEST, AAC_EAST: AAC_WEST, BIG_TWELVE: BIG_TWELVE, SUN_BELT_EAST: SUN_BELT_WEST}
+               CUSA_EAST: CUSA_WEST, AAC_EAST: AAC_WEST, BIG_TWELVE: BIG_TWELVE}

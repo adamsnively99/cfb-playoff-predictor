@@ -10,6 +10,7 @@ class Team:
         self.conf_wins = 0
         self.conf_losses = 0
         self.playoff_berths = 0.0
+        self.conf_titles = 0
         self.strength_of_record = 1.0
         self.wins_over = []
         self.losses_to = []

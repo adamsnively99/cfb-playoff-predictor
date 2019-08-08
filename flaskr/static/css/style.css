@@ -1,11 +1,22 @@
 table {
-  border-collapse: collapse;
+    border-collapse: collapse;
 }
 
 table, th, td {
     border: 1px solid black;
+    padding: 3px;
 }
 
-th, td, header, h2 {
+.content {
     font-family: "Monospace";
+    margin-left: 100px;
+}
+
+.key {
+    text-align: left;
+    font-weight: bold;
+}
+
+.value {
+    text-align: right;
 }

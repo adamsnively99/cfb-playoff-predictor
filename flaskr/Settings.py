@@ -1,6 +1,6 @@
 # TODO: Clean up Constants.py and Settings.py
-simulate_season = '2019'
-simulation_count = 1000
+simulate_season = '2016'
+simulation_count = 500
 format_schedule_season = '2018'
 data_folder_path = 'static/'
 schedule_file_ending = 'Schedule.csv'
