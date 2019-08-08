@@ -1,0 +1,131 @@
+Alabama,35.4,1,51.2,2,15.8,10,SEC
+Georgia,30.7,2,43.9,4,13.2,6,SEC
+Clemson,29.9,3,45.2,3,15.2,8,ACC
+Louisiana State,25.8,4,38.1,15,12.3,1,SEC
+Oklahoma,25,5,51.5,1,26.5,56,BIG TWELVE
+Florida,24.6,6,40.9,8,16.3,11,SEC
+Ohio State,24.3,7,41.3,6,17,14,BIG TEN
+Auburn,22.6,8,35.9,24,13.3,7,SEC
+Michigan,21.6,9,38.2,14,16.6,13,BIG TEN
+Mississippi State,21.4,10,33.8,32,12.4,2,SEC
+Wisconsin,20.1,11,42.6,5,22.5,33,BIG TEN
+Notre Dame,19.1,12,34.5,29,15.4,9,IND
+Texas A&M,18.7,13,40.9,9,22.2,32,SEC
+Penn State,18.4,14,31.4,51,13,4,BIG TEN
+Washington,17.7,15,35.8,25,18.2,16,PAC TWELVE
+Missouri,17.5,16,39,12,21.5,29,SEC
+Utah,15.4,17,35.3,27,19.9,20,PAC TWELVE
+South Carolina,14.9,18,38,16,23.1,36,SEC
+Miami FL,13.9,19,30.3,60,16.4,12,ACC
+Oregon,13.8,20,37.5,18,23.7,40,PAC TWELVE
+Tennessee,12.9,21,38.7,13,25.7,49,SEC
+Oklahoma State,12.8,22,41,7,28.2,69,BIG TWELVE
+Michigan State,12.6,23,25.1,96,12.5,3,BIG TEN
+Boise State,12.6,24,33,41,20.4,22,MWC
+Iowa,12.5,25,31.8,48,19.3,18,BIG TEN
+Memphis,12.3,26,40.5,10,28.3,70,AAC
+Central Florida,11.7,27,37.7,17,26,51,AAC
+Florida State,10.9,28,28.9,72,18,15,ACC
+Southern California,10.7,29,35.8,26,25.1,45,PAC TWELVE
+Virginia Tech,10.6,30,33.4,36,22.8,35,ACC
+Appalachian State,10.4,31,32,46,21.5,30,SUN BELT
+Stanford,10,32,33.4,37,23.4,39,PAC TWELVE
+Minnesota,9.5,33,32.2,45,22.7,34,BIG TEN
+Texas Christian,9.2,34,28.4,78,19.2,17,BIG TWELVE
+Texas,8.9,35,36.2,23,27.3,67,BIG TWELVE
+Washington State,8.9,36,37.3,20,28.4,71,PAC TWELVE
+Kentucky,8.8,37,29.9,63,21.1,27,SEC
+West Virginia,8.6,38,37.4,19,28.8,77,BIG TWELVE
+Mississippi,8.5,39,37.1,21,28.6,73,SEC
+Baylor,8.1,40,34.2,31,26.1,52,BIG TWELVE
+Virginia,7.9,41,28.6,75,20.7,23,ACC
+Utah State,7.6,42,31.8,47,24.2,44,MWC
+Iowa State,7.2,43,28.1,80,20.9,26,BIG TWELVE
+Cincinnati,7.1,44,29.1,71,22,31,AAC
+Nebraska,6.6,45,33.7,35,27.1,64,BIG TEN
+Indiana,6.4,46,33,40,26.6,59,BIG TEN
+North Carolina State,6.3,47,30.2,61,23.9,41,ACC
+Arkansas,6.1,48,31.3,52,25.2,46,SEC
+Arizona State,5.9,49,32.7,43,26.7,60,PAC TWELVE
+Brigham Young,5.7,50,29.8,66,24.1,43,IND
+Fresno State,5.5,51,26.8,87,21.2,28,MWC
+Arizona,5.4,52,31.7,49,26.2,55,PAC TWELVE
+Vanderbilt,5.2,53,36.9,22,31.7,91,SEC
+San Diego State,4.9,54,25.7,92,20.9,25,MWC
+Texas Tech,4.8,55,35.2,28,30.4,83,BIG TWELVE
+Syracuse,4.6,56,30.7,59,26.1,54,ACC
+Northwestern,4.2,57,24.3,100,20,21,BIG TEN
+Purdue,4.2,58,32.9,42,28.7,74,BIG TEN
+Pittsburgh,3.8,59,29.9,65,26.1,53,ACC
+California,3.4,60,16.5,125,13.1,5,PAC TWELVE
+North Carolina,3.2,61,34.3,30,31.1,88,ACC
+Wake Forest,3.1,62,29.9,64,26.7,61,ACC
+UCLA,3.1,63,31.5,50,28.4,72,PAC TWELVE
+Kansas State,3,64,28.5,76,25.5,48,BIG TWELVE
+Duke,2.9,65,26.2,89,23.3,38,ACC
+Temple,2.2,66,27.6,83,25.4,47,AAC
+Maryland,2.1,67,29.2,69,27.2,65,BIG TEN
+Colorado,1.7,68,28.7,73,27,62,PAC TWELVE
+Troy,1.4,69,25.3,94,23.9,42,SUN BELT
+Arkansas State,1,70,27.6,82,26.6,58,SUN BELT
+South Florida,1,71,32.4,44,31.4,90,AAC
+Boston College,0.7,72,27.7,81,27,63,ACC
+Houston,0.3,73,40,11,39.7,118,AAC
+Southern Mississippi,0,74,20.8,116,20.8,24,SUN BELT
+Western Michigan,-0.5,75,33.2,39,33.7,100,MAC
+Northern Illinois,-0.6,76,18.9,120,19.5,19,MAC
+Marshall,-1.2,77,22.1,111,23.2,37,CUSA
+Toledo,-1.3,78,33.8,33,35,107,MAC
+Florida Atlantic,-1.3,79,30,62,31.3,89,CUSA
+Army,-1.4,80,31.1,55,32.5,94,IND
+Georgia Southern,-1.5,81,29.2,70,30.7,85,SUN BELT
+Ohio,-1.9,82,33.7,34,35.6,109,MAC
+Nevada,-1.9,83,28.5,77,30.5,84,MWC
+North Texas,-2,84,31.2,53,33.3,98,CUSA
+Southern Methodist,-2.2,85,24.9,97,27.2,66,AAC
+Louisiana Tech,-2.4,86,24.1,101,26.6,57,CUSA
+Louisville,-2.7,87,26.9,86,29.6,78,ACC
+Florida International,-3.3,88,29.7,67,33,97,CUSA
+Georgia Tech,-3.5,89,30.9,57,34.4,102,ACC
+Air Force,-3.5,90,28.7,74,32.2,92,MWC
+Illinois,-3.8,91,31.1,54,34.9,106,BIG TEN
+Wyoming,-4.7,92,23,107,27.6,68,MWC
+Miami OH,-4.9,93,25.1,95,30,82,MAC
+Hawaii,-5.5,94,30.9,58,36.3,110,MWC
+Tulsa,-6,95,24,103,30,80,AAC
+Eastern Michigan,-6.4,96,23.2,106,29.7,79,MAC
+Buffalo,-7,97,26.7,88,33.7,99,MAC
+Tulane,-7.2,98,21.5,112,28.7,75,AAC
+Louisiana,-7.2,99,30.9,56,38.1,114,SUN BELT
+Nevada-Las Vegas,-7.5,100,33.3,38,40.7,121,MWC
+Western Kentucky,-8.6,101,21.4,114,30,81,CUSA
+Texas State,-8.8,102,17.1,124,25.8,50,SUN BELT
+Louisiana-Monroe,-8.9,103,25.9,91,34.8,105,SUN BELT
+Middle Tennessee State,-9.3,104,21.5,113,30.8,86,CUSA
+Oregon State,-9.4,105,29.3,68,38.7,116,PAC TWELVE
+Alabama-Birmingham,-9.8,106,19,119,28.8,76,CUSA
+Kansas,-12.1,107,20.4,117,32.5,96,BIG TWELVE
+Rutgers,-12.3,108,18.7,121,31,87,BIG TEN
+Colorado State,-12.8,109,24.1,102,36.8,112,MWC
+Ball State,-12.9,110,23.5,105,36.4,111,MAC
+Kent State,-13.7,111,24.6,99,38.3,115,MAC
+Liberty,-13.8,112,27.5,84,41.3,123,IND
+East Carolina,-14.4,113,20.1,118,34.5,104,AAC
+Georgia State,-15.2,114,26.1,90,41.3,122,SUN BELT
+New Mexico,-15.3,115,23.9,104,39.1,117,MWC
+Coastal Carolina,-15.6,116,28.4,79,44,127,SUN BELT
+San Jose State,-16.2,117,18.2,122,34.4,103,MWC
+Navy,-16.3,118,25.6,93,41.9,125,AAC
+Old Dominion,-17.6,119,22.2,110,39.7,119,CUSA
+Charlotte,-17.8,120,14.6,126,32.5,95,CUSA
+New Mexico State,-17.9,121,22.5,108,40.4,120,IND
+Central Michigan,-18.5,122,13.7,128,32.2,93,MAC
+Bowling Green State,-19.4,123,27.5,85,46.9,130,MAC
+Akron,-19.9,124,14.4,127,34.3,101,MAC
+Massachusetts,-19.9,125,24.7,98,44.7,128,IND
+Rice,-20,126,18,123,38,113,CUSA
+South Alabama,-20.8,127,22.5,109,43.3,126,SUN BELT
+Texas-San Antonio,-21.7,128,13.5,129,35.2,108,CUSA
+Connecticut,-24.7,129,21,115,45.7,129,AAC
+Texas-El Paso,-28.5,130,12.8,130,41.3,124,CUSA
+FCS, -15, 131, 0, 131, 0, 131
