@@ -37,29 +37,30 @@ def reset_teams(teams):
     for team_name in teams:
         teams.get(team_name).reset()
 
+def project_playoff():
+    # TODO: Multithread these simulations
+    team_playoff_appearances = {}
+    playoff_field_counts = {}
+    teams = ProjectionsLoader.load_projections()
+    schedule = ScheduleLoader.load_schedule(teams)
+    stdev_ratings = SeasonSimulator.calc_stdev_ratings(teams)
+    avg_top_team = SeasonSimulator.calc_avg_top_team(teams)
 
-# TODO: Multithread these simulations
-team_playoff_appearances = {}
-playoff_field_counts = {}
-teams = ProjectionsLoader.load_projections()
-schedule = ScheduleLoader.load_schedule(teams)
-stdev_ratings = SeasonSimulator.calc_stdev_ratings(teams)
-avg_top_team = SeasonSimulator.calc_avg_top_team(teams)
+    for i in range(Settings.simulation_count):
+        print(i)
+        SeasonSimulator.simulate_season(teams, schedule, stdev_ratings, avg_top_team)
+        playoff = PlayoffPredictor.get_best_records(teams, 4)
+        update_playoff_appearance_counts(team_playoff_appearances, playoff, teams)
+        update_playoff_field_counts(playoff_field_counts, playoff)
+        reset_teams(teams)
 
-for i in range(Settings.simulation_count):
-    print(i)
-    SeasonSimulator.simulate_season(teams, schedule, stdev_ratings, avg_top_team)
-    playoff = PlayoffPredictor.get_best_records(teams, 4)
-    update_playoff_appearance_counts(team_playoff_appearances, playoff, teams)
-    update_playoff_field_counts(playoff_field_counts, playoff)
-    reset_teams(teams)
+    return teams
 
-
-while len(team_playoff_appearances) > 0:
+"""while len(team_playoff_appearances) > 0:
     team = get_most_playoff(team_playoff_appearances)
     print(team[0] + " made the playoff " + str(team[1]) + ' times')
 
 # Todo: Sort Playoff fields by occurrences
 for playoff in playoff_field_counts:
     print(str(playoff) + ": " + str(playoff_field_counts.get(playoff)))
-
+"""

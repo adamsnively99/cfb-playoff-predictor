@@ -10,6 +10,7 @@ class Team:
         self.conf_wins = 0
         self.conf_losses = 0
         self.playoff_berths = 0.0
+        self.conf_titles = 0
         self.strength_of_record = 1.0
         self.wins_over = []
         self.losses_to = []
@@ -47,3 +48,4 @@ class Team:
     def __str__(self):
         return 'Name: ' + self.name + ', Conf.:' + self.conference + ', Wins over: ' + str(self.wins_over) \
                + ', losses to: ' + str(self.losses_to) + ', SOR: ' + str(self.strength_of_record) + '\n'
+

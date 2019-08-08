@@ -1,26 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"/>
     <title>College Football Playoff Predictor</title>
     <meta charset="utf-8"/>
 </head>
 <body>
-<header>Welcome to the College Football Playoff Projector!</header>
-<h2>Brought to you by S&P+, by Bill Connelly!</h2>
-<table>
-    <tr>
-        <th>Team</th>
-        <th>Rating</th>
-        <th>Playoff Odds</th>
-    </tr>
+    <div class="content">
+        <header>Welcome to the College Football Playoff Projector!</header>
+        <h2>Brought to you by S&P+, by Bill Connelly!</h2>
+        <table>
+            <tr>
+                <th colspan="4">Projections for 2016</th>
+            </tr>
+            <tr>
+                <th>Team</th>
+                <th>Rating</th>
+                <th>Playoff Odds</th>
+                <th>Conference<br>Title Odds</th>
+            </tr>
 
-    {% for team in {{ teams }} %}
-    <tr>
-        <td>team.name</td>
-        <td>team.rating</td>
-        <td>team.playoff_berths</td>
-    </tr>
-    {% endfor %}
-</table>
+            {% for team in teams %}
+            <tr>
+                <td class="key">{{ teams.get(team).name }}</td>
+                <td class="value">{{ teams.get(team).rating }}</td>
+                <td class="value">{{ teams.get(team).playoff_berths / 500 }}</td>
+                <td class="value">{{ teams.get(team).conf_titles / 500 }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
 </body>
 
