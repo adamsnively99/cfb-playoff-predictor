@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>College Football Playoff Predictor</title>
+    <meta charset="utf-8"/>
+</head>
+<body>
+<header>Welcome to the College Football Playoff Projector!</header>
+<h2>Brought to you by S&P+, by Bill Connelly!</h2>
+<table>
+    <tr>
+        <th>Team</th>
+        <th>Rating</th>
+        <th>Playoff Odds</th>
+    </tr>
+
+    {% for team in {{ teams }} %}
+    <tr>
+        <td>team.name</td>
+        <td>team.rating</td>
+        <td>team.playoff_berths</td>
+    </tr>
+    {% endfor %}
+</table>
+</body>
+

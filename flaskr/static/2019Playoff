@@ -1,0 +1,1478 @@
+Alabama made the playoff 3817 times
+Clemson made the playoff 3046 times
+Georgia made the playoff 2506 times
+Oklahoma made the playoff 1909 times
+Ohio State made the playoff 1467 times
+Louisiana State made the playoff 1151 times
+Florida made the playoff 828 times
+Michigan made the playoff 739 times
+Wisconsin made the playoff 596 times
+Notre Dame made the playoff 468 times
+Washington made the playoff 407 times
+Penn State made the playoff 399 times
+Auburn made the playoff 328 times
+Boise State made the playoff 318 times
+Mississippi State made the playoff 293 times
+Appalachian State made the playoff 282 times
+Memphis made the playoff 251 times
+Utah made the playoff 237 times
+Central Florida made the playoff 181 times
+Miami FL made the playoff 111 times
+Missouri made the playoff 109 times
+Texas A&M made the playoff 92 times
+Oklahoma State made the playoff 80 times
+Oregon made the playoff 65 times
+Michigan State made the playoff 33 times
+Iowa made the playoff 33 times
+Florida State made the playoff 31 times
+Virginia Tech made the playoff 24 times
+Washington State made the playoff 17 times
+Cincinnati made the playoff 16 times
+Utah State made the playoff 12 times
+Virginia made the playoff 11 times
+San Diego State made the playoff 9 times
+North Carolina State made the playoff 9 times
+North Texas made the playoff 9 times
+Fresno State made the playoff 8 times
+South Carolina made the playoff 8 times
+Minnesota made the playoff 8 times
+Army made the playoff 8 times
+Tennessee made the playoff 7 times
+Western Michigan made the playoff 7 times
+Stanford made the playoff 7 times
+Southern California made the playoff 7 times
+Texas Christian made the playoff 7 times
+Baylor made the playoff 6 times
+Brigham Young made the playoff 5 times
+Troy made the playoff 5 times
+Indiana made the playoff 4 times
+Arkansas State made the playoff 4 times
+Iowa State made the playoff 3 times
+Louisiana Tech made the playoff 3 times
+Syracuse made the playoff 3 times
+Toledo made the playoff 3 times
+West Virginia made the playoff 2 times
+Texas made the playoff 2 times
+Kentucky made the playoff 2 times
+Georgia Southern made the playoff 1 times
+Arizona State made the playoff 1 times
+Ohio made the playoff 1 times
+South Florida made the playoff 1 times
+Nebraska made the playoff 1 times
+Texas Tech made the playoff 1 times
+Eastern Michigan made the playoff 1 times
+['Alabama', 'Clemson', 'Georgia', 'Michigan']: 82
+['Georgia', 'Missouri', 'Ohio State', 'Texas A&M']: 1
+['Clemson', 'Georgia', 'Ohio State', 'Oklahoma']: 27
+['Alabama', 'Clemson', 'Florida', 'Oklahoma']: 41
+['Alabama', 'Clemson', 'Georgia', 'Oklahoma']: 209
+['Alabama', 'Notre Dame', 'Ohio State', 'Oklahoma']: 14
+['Alabama', 'Clemson', 'Oklahoma', 'Wisconsin']: 50
+['Alabama', 'Appalachian State', 'Florida', 'Louisiana State']: 2
+['Alabama', 'Clemson', 'Florida', 'Washington State']: 1
+['Alabama', 'Clemson', 'Michigan', 'Notre Dame']: 8
+['Alabama', 'Clemson', 'Notre Dame', 'Ohio State']: 26
+['Florida', 'Georgia', 'Michigan', 'Oklahoma']: 7
+['Alabama', 'Clemson', 'Fresno State', 'Oklahoma State']: 1
+['Alabama', 'Clemson', 'Louisiana State', 'Oklahoma']: 49
+['Alabama', 'Ohio State', 'Oklahoma', 'Wisconsin']: 2
+['Alabama', 'Oklahoma', 'Texas A&M', 'Washington']: 2
+['Alabama', 'Auburn', 'Clemson', 'Oklahoma']: 24
+['Clemson', 'Louisiana State', 'Notre Dame', 'Ohio State']: 6
+['Alabama', 'Boise State', 'Oklahoma', 'Utah']: 2
+['Boise State', 'Florida', 'Georgia', 'Michigan']: 1
+['Alabama', 'Clemson', 'Ohio State', 'Oregon']: 2
+['Alabama', 'Clemson', 'Notre Dame', 'Washington']: 4
+['Alabama', 'Clemson', 'Missouri', 'Ohio State']: 5
+['Alabama', 'Clemson', 'Georgia', 'Wisconsin']: 70
+['Alabama', 'Georgia', 'Michigan', 'Oklahoma']: 30
+['Alabama', 'Florida', 'Ohio State', 'Washington']: 4
+['Alabama', 'Georgia', 'Louisiana State', 'Oklahoma']: 47
+['Clemson', 'Florida', 'Louisiana State', 'Ohio State']: 9
+['Georgia', 'Michigan', 'Ohio State', 'Washington']: 1
+['Alabama', 'Clemson', 'Michigan', 'Oklahoma']: 52
+['Alabama', 'Clemson', 'Georgia', 'Ohio State']: 164
+['Clemson', 'Louisiana State', 'Ohio State', 'Oklahoma']: 19
+['Alabama', 'Georgia', 'Louisiana State', 'Ohio State']: 21
+['Alabama', 'Clemson', 'Georgia', 'Penn State']: 40
+['Alabama', 'Clemson', 'Georgia', 'Louisiana State']: 76
+['Auburn', 'Georgia', 'Ohio State', 'Oklahoma']: 5
+['Alabama', 'Louisiana State', 'Ohio State', 'Oklahoma']: 18
+['Auburn', 'Brigham Young', 'Clemson', 'Georgia']: 1
+['Clemson', 'Georgia', 'Mississippi State', 'Penn State']: 7
+['Alabama', 'Appalachian State', 'Michigan', 'Oklahoma State']: 1
+['Alabama', 'Auburn', 'Clemson', 'Mississippi State']: 1
+['Alabama', 'Georgia', 'Mississippi State', 'Washington']: 3
+['Alabama', 'Clemson', 'Missouri', 'Notre Dame']: 3
+['Alabama', 'Auburn', 'Georgia', 'Louisiana State']: 1
+['Clemson', 'Georgia', 'Louisiana State', 'Ohio State']: 31
+['Georgia', 'Mississippi State', 'Oklahoma', 'Utah']: 1
+['Clemson', 'Florida', 'Notre Dame', 'Oklahoma']: 2
+['Alabama', 'Florida', 'Georgia', 'Penn State']: 6
+['Alabama', 'Clemson', 'Florida', 'Georgia']: 60
+['Clemson', 'Georgia', 'Utah', 'Wisconsin']: 5
+['Louisiana State', 'Michigan State', 'Notre Dame', 'Oklahoma']: 1
+['Clemson', 'Georgia', 'Michigan', 'Mississippi State']: 5
+['Alabama', 'Clemson', 'Memphis', 'Ohio State']: 17
+['Alabama', 'Clemson', 'Georgia', 'Oregon']: 4
+['Auburn', 'Clemson', 'Georgia', 'Oklahoma State']: 1
+['Alabama', 'Georgia', 'Oklahoma', 'Washington']: 19
+['Alabama', 'Missouri', 'Ohio State', 'Virginia Tech']: 2
+['Auburn', 'Florida', 'Mississippi State', 'Ohio State']: 1
+['Alabama', 'Georgia', 'Memphis', 'Washington']: 4
+['Georgia', 'Louisiana State', 'Ohio State', 'Oklahoma']: 19
+['Alabama', 'Florida', 'Georgia', 'Ohio State']: 25
+['Alabama', 'Boise State', 'Oklahoma', 'Wisconsin']: 2
+['Clemson', 'Mississippi State', 'Oregon', 'Penn State']: 1
+['Alabama', 'Auburn', 'Oklahoma', 'Utah']: 2
+['Alabama', 'Clemson', 'Miami FL', 'Oklahoma']: 4
+['Alabama', 'Clemson', 'Florida', 'Wisconsin']: 22
+['Alabama', 'Auburn', 'Missouri', 'Ohio State']: 1
+['Auburn', 'Clemson', 'Texas A&M', 'Wisconsin']: 1
+['Alabama', 'Georgia', 'Memphis', 'Michigan']: 6
+['Alabama', 'Boise State', 'Clemson', 'Georgia']: 23
+['Alabama', 'Georgia', 'Miami FL', 'Washington']: 2
+['Clemson', 'Florida', 'Louisiana State', 'Mississippi State']: 1
+['Georgia', 'Memphis', 'Ohio State', 'Oklahoma']: 2
+['Alabama', 'Georgia', 'Ohio State', 'Oklahoma']: 63
+['Alabama', 'Central Florida', 'Mississippi State', 'Wisconsin']: 1
+['Alabama', 'Georgia', 'Miami FL', 'Oklahoma']: 9
+['Alabama', 'Auburn', 'Clemson', 'Ohio State']: 18
+['Clemson', 'Florida', 'Oklahoma', 'Washington']: 2
+['Alabama', 'Georgia', 'Washington', 'Wisconsin']: 4
+['Clemson', 'Louisiana State', 'Michigan', 'Notre Dame']: 1
+['Appalachian State', 'Clemson', 'Florida', 'Ohio State']: 1
+['Alabama', 'Auburn', 'Notre Dame', 'Oklahoma']: 2
+['Alabama', 'Appalachian State', 'Clemson', 'Georgia']: 25
+['Auburn', 'Clemson', 'Georgia', 'Oklahoma']: 7
+['Alabama', 'Boise State', 'Clemson', 'Florida']: 10
+['Alabama', 'Oklahoma', 'Texas A&M', 'Wisconsin']: 1
+['Alabama', 'Clemson', 'Louisiana State', 'Washington']: 9
+['Alabama', 'Clemson', 'Ohio State', 'Oklahoma']: 111
+['Alabama', 'Clemson', 'Ohio State', 'San Diego State']: 3
+['Georgia', 'Louisiana State', 'Michigan', 'Oklahoma']: 11
+['Georgia', 'Memphis', 'Michigan', 'Washington']: 1
+['Georgia', 'Louisiana State', 'Mississippi State', 'Penn State']: 1
+['Alabama', 'Auburn', 'Georgia', 'Iowa State']: 1
+['Georgia', 'Memphis', 'Notre Dame', 'Tennessee']: 1
+['Clemson', 'Georgia', 'Louisiana State', 'Mississippi State']: 6
+['Clemson', 'Georgia', 'Oklahoma', 'Penn State']: 6
+['Clemson', 'Georgia', 'Louisiana State', 'Oklahoma']: 46
+['Alabama', 'Clemson', 'Oklahoma', 'Penn State']: 29
+['Alabama', 'Clemson', 'Ohio State', 'Washington']: 22
+['Alabama', 'Clemson', 'Louisiana State', 'Wisconsin']: 18
+['Auburn', 'Louisiana State', 'Ohio State', 'Oklahoma']: 1
+['Alabama', 'Florida', 'Georgia', 'Oklahoma']: 25
+['Alabama', 'Michigan', 'Mississippi State', 'Oklahoma']: 1
+['Alabama', 'Georgia', 'Notre Dame', 'Ohio State']: 7
+['Auburn', 'Clemson', 'Missouri', 'Oklahoma']: 1
+['Clemson', 'Georgia', 'Notre Dame', 'Wisconsin']: 2
+['Alabama', 'Louisiana State', 'Michigan', 'Oklahoma']: 8
+['Alabama', 'Clemson', 'Georgia', 'Washington']: 29
+['Alabama', 'Georgia', 'Texas A&M', 'Wisconsin']: 2
+['Alabama', 'Michigan', 'Oklahoma', 'Utah']: 3
+['Louisiana State', 'Ohio State', 'Oklahoma', 'Washington']: 1
+['Clemson', 'Georgia', 'Notre Dame', 'Washington']: 2
+['Florida', 'Louisiana State', 'Mississippi State', 'Ohio State']: 2
+['Alabama', 'Ohio State', 'Oklahoma', 'Utah']: 5
+['Alabama', 'Clemson', 'Texas A&M', 'Washington']: 1
+['Alabama', 'Georgia', 'Ohio State', 'Washington']: 15
+['Clemson', 'Georgia', 'Missouri', 'Oklahoma']: 1
+['Alabama', 'Georgia', 'Michigan', 'Notre Dame']: 1
+['Alabama', 'Appalachian State', 'Clemson', 'Oklahoma']: 15
+['Alabama', 'Clemson', 'Missouri', 'Wisconsin']: 3
+['Alabama', 'Louisiana State', 'Notre Dame', 'Oklahoma']: 6
+['Alabama', 'Appalachian State', 'Boise State', 'Clemson']: 5
+['Alabama', 'Boise State', 'Ohio State', 'Oklahoma']: 8
+['Alabama', 'Appalachian State', 'Florida', 'Oklahoma']: 2
+['Alabama', 'Boise State', 'Georgia', 'Michigan']: 5
+['Alabama', 'Georgia', 'Ohio State', 'Wisconsin']: 8
+['Alabama', 'Georgia', 'Louisiana State', 'Washington']: 4
+['Clemson', 'Mississippi State', 'Notre Dame', 'Ohio State']: 2
+['Alabama', 'Clemson', 'Memphis', 'Oklahoma']: 19
+['Alabama', 'Boise State', 'Michigan', 'Ohio State']: 1
+['Alabama', 'Clemson', 'Utah State', 'Wisconsin']: 2
+['Alabama', 'Clemson', 'Ohio State', 'Penn State']: 9
+['Alabama', 'Clemson', 'Ohio State', 'Texas A&M']: 3
+['Florida', 'Georgia', 'Oklahoma', 'Utah']: 1
+['Alabama', 'Georgia', 'Oklahoma', 'Penn State']: 14
+['Alabama', 'Louisiana State', 'Michigan', 'Ohio State']: 6
+['Alabama', 'Georgia', 'Louisiana State', 'Michigan']: 15
+['Clemson', 'Georgia', 'Michigan', 'Oklahoma']: 18
+['Alabama', 'Central Florida', 'Notre Dame', 'Ohio State']: 1
+['Alabama', 'Appalachian State', 'Boise State', 'Memphis']: 1
+['Clemson', 'Louisiana State', 'Ohio State', 'Wisconsin']: 1
+['Alabama', 'Boise State', 'Clemson', 'Ohio State']: 20
+['Auburn', 'Clemson', 'Florida', 'Ohio State']: 2
+['Clemson', 'Florida', 'Michigan', 'Oklahoma']: 2
+['Alabama', 'Michigan', 'Oklahoma', 'Wisconsin']: 1
+['Alabama', 'Auburn', 'Clemson', 'Notre Dame']: 3
+['Louisiana State', 'Mississippi State', 'Ohio State', 'Oklahoma']: 3
+['Clemson', 'Louisiana State', 'Notre Dame', 'Oklahoma']: 6
+['Alabama', 'Central Florida', 'Clemson', 'Michigan']: 6
+['Georgia', 'Michigan', 'Mississippi State', 'Oklahoma']: 3
+['Alabama', 'Clemson', 'Louisiana State', 'Utah']: 6
+['Alabama', 'Clemson', 'Oklahoma', 'Washington']: 20
+['Alabama', 'Clemson', 'Florida', 'Oregon']: 3
+['Appalachian State', 'Georgia', 'Oklahoma', 'Wisconsin']: 1
+['Alabama', 'Auburn', 'Notre Dame', 'Ohio State']: 4
+['Alabama', 'Florida', 'Georgia', 'Utah']: 8
+['Georgia', 'Louisiana State', 'Oklahoma', 'Texas A&M']: 1
+['Alabama', 'Boise State', 'Louisiana State', 'Oklahoma']: 5
+['Florida', 'Louisiana State', 'Notre Dame', 'Oklahoma']: 1
+['Alabama', 'Clemson', 'Louisiana State', 'Penn State']: 15
+['Alabama', 'Boise State', 'Memphis', 'Ohio State']: 2
+['Alabama', 'Georgia', 'Michigan', 'Washington']: 5
+['Auburn', 'Clemson', 'Notre Dame', 'Ohio State']: 2
+['Alabama', 'Boise State', 'Georgia', 'Penn State']: 1
+['Alabama', 'Clemson', 'Georgia', 'Memphis']: 16
+['Alabama', 'Auburn', 'Georgia', 'Wisconsin']: 5
+['Alabama', 'Memphis', 'Oklahoma', 'Penn State']: 3
+['Clemson', 'Louisiana State', 'Memphis', 'Notre Dame']: 1
+['Alabama', 'Notre Dame', 'Ohio State', 'Washington']: 3
+['Alabama', 'Miami FL', 'Notre Dame', 'Wisconsin']: 2
+['Alabama', 'Clemson', 'Oklahoma', 'Utah']: 15
+['Georgia', 'Michigan', 'Oklahoma', 'Washington']: 2
+['Clemson', 'Georgia', 'Georgia Southern', 'Ohio State']: 1
+['Alabama', 'Michigan', 'Ohio State', 'Oklahoma']: 11
+['Alabama', 'Clemson', 'Utah', 'Wisconsin']: 3
+['Clemson', 'Louisiana State', 'Michigan', 'Mississippi State']: 4
+['Alabama', 'Clemson', 'Georgia', 'Mississippi State']: 20
+['Alabama', 'Clemson', 'Louisiana State', 'Ohio State']: 40
+['Alabama', 'Boise State', 'Memphis', 'Oregon']: 1
+['Clemson', 'Louisiana State', 'Notre Dame', 'Penn State']: 1
+['Alabama', 'Appalachian State', 'Auburn', 'Clemson']: 3
+['Clemson', 'Georgia', 'Virginia', 'Wisconsin']: 1
+['Auburn', 'Clemson', 'Georgia', 'Memphis']: 1
+['Clemson', 'Georgia', 'Louisiana State', 'Oklahoma State']: 1
+['Clemson', 'Georgia', 'Ohio State', 'Utah']: 4
+['Alabama', 'Central Florida', 'Ohio State', 'Oklahoma']: 4
+['Appalachian State', 'Georgia', 'Notre Dame', 'Penn State']: 1
+['Alabama', 'Appalachian State', 'Clemson', 'Florida']: 6
+['Alabama', 'Michigan', 'North Carolina State', 'Oklahoma']: 1
+['Appalachian State', 'Georgia', 'Ohio State', 'Oklahoma']: 1
+['Alabama', 'Clemson', 'Mississippi State', 'Wisconsin']: 4
+['Alabama', 'Clemson', 'Georgia', 'Western Michigan']: 1
+['Alabama', 'Florida', 'Ohio State', 'Oklahoma']: 21
+['Clemson', 'Louisiana State', 'Memphis', 'Oklahoma']: 2
+['Alabama', 'Ohio State', 'Oklahoma', 'Washington']: 9
+['Alabama', 'Clemson', 'Florida', 'Washington']: 8
+['Alabama', 'Central Florida', 'Louisiana State', 'Washington']: 1
+['Clemson', 'Michigan', 'Mississippi State', 'Oklahoma State']: 1
+['Alabama', 'Georgia', 'Ohio State', 'Oklahoma State']: 1
+['Alabama', 'Clemson', 'Notre Dame', 'Oklahoma']: 37
+['Georgia', 'Memphis', 'Miami FL', 'Michigan']: 1
+['Alabama', 'Clemson', 'Louisiana State', 'Memphis']: 5
+['Appalachian State', 'Georgia', 'Louisiana State', 'Ohio State']: 1
+['Appalachian State', 'Central Florida', 'Florida', 'Oklahoma']: 1
+['Auburn', 'Clemson', 'Mississippi State', 'Oklahoma']: 1
+['Alabama', 'Clemson', 'Georgia', 'Stanford']: 2
+['Alabama', 'Appalachian State', 'Clemson', 'Washington']: 5
+['Clemson', 'Georgia', 'Louisiana State', 'Wisconsin']: 10
+['Alabama', 'Florida', 'Michigan', 'Ohio State']: 3
+['Alabama', 'Louisiana State', 'Oklahoma', 'Washington']: 3
+['Alabama', 'Georgia', 'Memphis', 'Wisconsin']: 4
+['Alabama', 'Clemson', 'Penn State', 'Washington']: 10
+['Central Florida', 'Clemson', 'Georgia', 'Penn State']: 1
+['Alabama', 'Georgia', 'Mississippi State', 'Ohio State']: 11
+['Clemson', 'Georgia', 'Memphis', 'Oklahoma']: 8
+['Alabama', 'Clemson', 'Notre Dame', 'Oklahoma State']: 2
+['Alabama', 'Notre Dame', 'Oklahoma', 'Wisconsin']: 8
+['Alabama', 'Clemson', 'Florida', 'Louisiana State']: 12
+['Alabama', 'Boise State', 'Georgia', 'Washington']: 2
+['Alabama', 'Boise State', 'Clemson', 'Oklahoma']: 14
+['Alabama', 'Clemson', 'Florida', 'Ohio State']: 45
+['Alabama', 'Appalachian State', 'Georgia', 'Oklahoma State']: 1
+['Alabama', 'Georgia', 'Michigan', 'Utah']: 4
+['Alabama', 'Georgia', 'Missouri', 'Ohio State']: 2
+['Alabama', 'Clemson', 'Michigan', 'Ohio State']: 19
+['Auburn', 'Clemson', 'Georgia', 'Ohio State']: 6
+['Alabama', 'Ohio State', 'Oklahoma', 'Penn State']: 5
+['Alabama', 'Boise State', 'Georgia', 'Wisconsin']: 4
+['Alabama', 'Florida', 'Michigan', 'Oklahoma']: 9
+['Clemson', 'Georgia', 'Penn State', 'Washington']: 5
+['Alabama', 'Clemson', 'Missouri', 'Washington']: 1
+['Clemson', 'Georgia', 'Washington', 'Wisconsin']: 2
+['Auburn', 'Georgia', 'Ohio State', 'Oklahoma State']: 1
+['Alabama', 'Georgia', 'Notre Dame', 'Penn State']: 3
+['Alabama', 'Auburn', 'Boise State', 'Clemson']: 5
+['Alabama', 'Clemson', 'Florida', 'Michigan']: 21
+['Alabama', 'Auburn', 'Ohio State', 'Oklahoma']: 9
+['Alabama', 'Missouri', 'Ohio State', 'Oklahoma']: 3
+['Clemson', 'Georgia', 'Louisiana State', 'Michigan']: 18
+['Florida', 'Louisiana State', 'Notre Dame', 'Penn State']: 2
+['Boise State', 'Florida', 'Ohio State', 'Oklahoma']: 1
+['Florida', 'Georgia', 'Louisiana State', 'Oklahoma']: 7
+['Alabama', 'Clemson', 'Florida', 'Notre Dame']: 16
+['Alabama', 'Florida', 'Louisiana State', 'Southern California']: 1
+['Alabama', 'Auburn', 'Florida State', 'Penn State']: 1
+['Clemson', 'Florida', 'Georgia', 'Utah']: 3
+['Alabama', 'Appalachian State', 'Clemson', 'Penn State']: 1
+['Alabama', 'Georgia', 'Michigan', 'Missouri']: 3
+['Alabama', 'Clemson', 'Florida', 'Mississippi State']: 2
+['Auburn', 'Memphis', 'Mississippi State', 'Ohio State']: 1
+['Alabama', 'Clemson', 'Ohio State', 'Wisconsin']: 10
+['Appalachian State', 'Clemson', 'Georgia', 'Ohio State']: 8
+['Alabama', 'Louisiana State', 'Oklahoma', 'Oregon']: 3
+['Alabama', 'Clemson', 'Oklahoma State', 'Utah']: 1
+['Clemson', 'Georgia', 'Mississippi State', 'Oklahoma']: 9
+['Boise State', 'Georgia', 'Louisiana State', 'Oklahoma']: 3
+['Alabama', 'Notre Dame', 'Oklahoma', 'Penn State']: 8
+['Clemson', 'Florida', 'Louisiana State', 'Oklahoma']: 8
+['Alabama', 'Cincinnati', 'Louisiana State', 'Wisconsin']: 1
+['Alabama', 'Georgia', 'Penn State', 'Utah']: 2
+['Alabama', 'Louisiana State', 'Oklahoma', 'Texas A&M']: 1
+['Alabama', 'Georgia', 'Michigan', 'Mississippi State']: 6
+['Alabama', 'Miami FL', 'Mississippi State', 'Ohio State']: 2
+['Alabama', 'Boise State', 'Georgia', 'Iowa']: 2
+['Florida', 'Louisiana State', 'Ohio State', 'Oklahoma']: 3
+['Boise State', 'Clemson', 'Georgia', 'Ohio State']: 4
+['Alabama', 'Boise State', 'Cincinnati', 'Georgia']: 1
+['Boise State', 'Clemson', 'Florida', 'Georgia']: 1
+['Alabama', 'Georgia', 'Michigan', 'Ohio State']: 9
+['Florida State', 'Georgia', 'Mississippi State', 'Notre Dame']: 1
+['Alabama', 'Boise State', 'Clemson', 'Memphis']: 6
+['Alabama', 'Georgia', 'Louisiana State', 'Miami FL']: 3
+['Alabama', 'Louisiana State', 'Ohio State', 'Texas A&M']: 1
+['Alabama', 'Georgia', 'Penn State', 'Washington']: 5
+['Alabama', 'Clemson', 'Memphis', 'Notre Dame']: 6
+['Clemson', 'Florida', 'Michigan', 'Ohio State']: 1
+['Alabama', 'Appalachian State', 'Clemson', 'Oregon']: 3
+['Georgia', 'Memphis', 'Oklahoma', 'Wisconsin']: 1
+['Louisiana State', 'Miami FL', 'Ohio State', 'Oklahoma']: 1
+['Alabama', 'Indiana', 'Oklahoma', 'Wisconsin']: 1
+['Baylor', 'Clemson', 'Georgia', 'Louisiana State']: 1
+['Alabama', 'Georgia', 'Missouri', 'Oklahoma State']: 1
+['Louisiana State', 'Oklahoma', 'Utah', 'Wisconsin']: 1
+['Alabama', 'Louisiana State', 'Michigan', 'Washington']: 2
+['Florida', 'Georgia', 'Notre Dame', 'Oklahoma']: 1
+['Alabama', 'Clemson', 'Washington', 'Wisconsin']: 6
+['Auburn', 'Georgia', 'Washington', 'Wisconsin']: 2
+['Auburn', 'Clemson', 'Georgia', 'West Virginia']: 1
+['Alabama', 'Central Florida', 'Clemson', 'Georgia']: 13
+['Louisiana State', 'Miami FL', 'Ohio State', 'Utah']: 1
+['Clemson', 'Georgia', 'Louisiana State', 'Utah']: 3
+['Auburn', 'Clemson', 'Louisiana State', 'Washington']: 1
+['Alabama', 'Clemson', 'Louisiana State', 'Michigan']: 18
+['Georgia', 'Louisiana State', 'Notre Dame', 'Ohio State']: 1
+['Alabama', 'Georgia', 'Iowa State', 'Michigan']: 1
+['Alabama', 'Boise State', 'Clemson', 'Michigan']: 5
+['Alabama', 'Georgia', 'Utah', 'Wisconsin']: 3
+['Alabama', 'Clemson', 'Louisiana State', 'Notre Dame']: 11
+['Alabama', 'Auburn', 'Florida', 'Ohio State']: 3
+['Alabama', 'Auburn', 'Clemson', 'Wisconsin']: 13
+['Alabama', 'Florida', 'Notre Dame', 'Ohio State']: 8
+['Alabama', 'Auburn', 'Michigan', 'Oklahoma']: 5
+['Appalachian State', 'Clemson', 'Oklahoma', 'Washington']: 1
+['Clemson', 'Louisiana State', 'Ohio State', 'Oklahoma State']: 1
+['Clemson', 'Georgia', 'Missouri', 'Ohio State']: 3
+['Alabama', 'Central Florida', 'Florida', 'Georgia']: 2
+['Louisiana State', 'Notre Dame', 'Oklahoma', 'Penn State']: 1
+['Alabama', 'Arizona State', 'Clemson', 'Oklahoma']: 1
+['Alabama', 'Clemson', 'Georgia', 'Notre Dame']: 9
+['Alabama', 'Appalachian State', 'Miami FL', 'Michigan']: 2
+['Clemson', 'Louisiana State', 'Oklahoma', 'Wisconsin']: 5
+['Alabama', 'Auburn', 'Clemson', 'Utah']: 3
+['Alabama', 'Florida State', 'Georgia', 'Oklahoma']: 2
+['Florida State', 'Georgia', 'Louisiana State', 'Utah']: 1
+['Clemson', 'Louisiana State', 'Oklahoma', 'Penn State']: 2
+['Alabama', 'Boise State', 'Georgia', 'Oklahoma']: 6
+['Alabama', 'Notre Dame', 'Utah', 'Wisconsin']: 1
+['Alabama', 'Louisiana State', 'Oklahoma', 'Wisconsin']: 9
+['Georgia', 'Iowa', 'Ohio State', 'Penn State']: 1
+['Alabama', 'Appalachian State', 'Michigan', 'Ohio State']: 1
+['Auburn', 'Clemson', 'Georgia', 'Penn State']: 2
+['Alabama', 'Mississippi State', 'Oklahoma', 'Penn State']: 1
+['Clemson', 'Florida', 'Notre Dame', 'Ohio State']: 2
+['Alabama', 'Notre Dame', 'Oklahoma', 'Washington']: 3
+['Alabama', 'Florida', 'Iowa', 'Washington']: 1
+['Clemson', 'Georgia', 'Ohio State', 'Wisconsin']: 3
+['Georgia', 'Louisiana State', 'Ohio State', 'Washington']: 7
+['Alabama', 'Boise State', 'Clemson', 'Louisiana State']: 4
+['Alabama', 'Central Florida', 'Clemson', 'Ohio State']: 13
+['Alabama', 'Oklahoma', 'Washington', 'Wisconsin']: 3
+['Alabama', 'Clemson', 'Michigan', 'Utah State']: 2
+['Alabama', 'Florida', 'Oklahoma', 'Utah']: 3
+['Alabama', 'Florida', 'Louisiana State', 'Oklahoma']: 8
+['Alabama', 'Georgia', 'Memphis', 'Ohio State']: 6
+['Alabama', 'Boise State', 'Florida', 'Georgia']: 2
+['Alabama', 'Appalachian State', 'Florida', 'Penn State']: 1
+['Auburn', 'Clemson', 'Mississippi State', 'Washington']: 1
+['Alabama', 'Clemson', 'Missouri', 'Oklahoma']: 5
+['Clemson', 'Louisiana State', 'Memphis', 'Missouri']: 1
+['Alabama', 'Auburn', 'Georgia', 'Ohio State']: 7
+['Alabama', 'Clemson', 'Georgia', 'Oklahoma State']: 12
+['Alabama', 'Memphis', 'Miami FL', 'Notre Dame']: 1
+['Clemson', 'Georgia', 'Michigan', 'Washington']: 3
+['Clemson', 'Florida', 'Georgia', 'Ohio State']: 6
+['Alabama', 'Memphis', 'Michigan', 'Oklahoma']: 5
+['Alabama', 'Central Florida', 'Clemson', 'Louisiana State']: 5
+['Alabama', 'Clemson', 'Miami FL', 'Washington']: 2
+['Alabama', 'Georgia', 'Memphis', 'Oklahoma']: 7
+['Georgia', 'Louisiana State', 'Mississippi State', 'Oklahoma']: 7
+['Alabama', 'Appalachian State', 'Georgia', 'Ohio State']: 9
+['Clemson', 'Georgia', 'Notre Dame', 'Oklahoma']: 7
+['Alabama', 'Clemson', 'Louisiana State', 'Oklahoma State']: 3
+['Clemson', 'Georgia', 'Michigan', 'Washington State']: 1
+['Florida', 'Georgia', 'Miami FL', 'Washington']: 1
+['Alabama', 'Clemson', 'Florida', 'Iowa']: 1
+['Alabama', 'Appalachian State', 'Clemson', 'Ohio State']: 16
+['Alabama', 'Florida', 'Georgia', 'Wisconsin']: 11
+['Alabama', 'Florida', 'Oklahoma', 'Oregon']: 2
+['Alabama', 'Georgia', 'Iowa', 'Louisiana State']: 1
+['Alabama', 'Clemson', 'Ohio', 'Ohio State']: 1
+['Boise State', 'Georgia', 'Oklahoma', 'Wisconsin']: 1
+['Alabama', 'Boise State', 'Florida', 'Louisiana State']: 1
+['Alabama', 'Clemson', 'Mississippi State', 'Oklahoma State']: 1
+['Boise State', 'Cincinnati', 'Clemson', 'Georgia']: 1
+['Alabama', 'Florida', 'Georgia', 'Michigan']: 10
+['Alabama', 'Appalachian State', 'Georgia', 'Louisiana State']: 2
+['Alabama', 'Auburn', 'Oklahoma', 'Washington']: 1
+['Alabama', 'Clemson', 'Louisiana State', 'Mississippi State']: 3
+['Alabama', 'Auburn', 'Clemson', 'Georgia']: 11
+['Alabama', 'Florida State', 'Oklahoma', 'Wisconsin']: 1
+['Alabama', 'Appalachian State', 'Georgia', 'Penn State']: 2
+['Alabama', 'Clemson', 'Iowa', 'Texas A&M']: 1
+['Alabama', 'Ohio State', 'Oklahoma State', 'San Diego State']: 1
+['Georgia', 'Michigan', 'Notre Dame', 'Oklahoma']: 1
+['Georgia', 'Louisiana State', 'Memphis', 'Ohio State']: 3
+['Clemson', 'Florida', 'Mississippi State', 'Wisconsin']: 1
+['Boise State', 'Clemson', 'Georgia', 'Michigan']: 3
+['Alabama', 'Georgia', 'Ohio State', 'Texas A&M']: 5
+['Alabama', 'Appalachian State', 'Clemson', 'Michigan']: 8
+['Alabama', 'Clemson', 'Florida', 'Missouri']: 4
+['Clemson', 'Georgia', 'Michigan', 'Ohio State']: 6
+['Alabama', 'Georgia', 'Michigan State', 'Oklahoma']: 1
+['Auburn', 'Georgia', 'Mississippi State', 'Penn State']: 1
+['Alabama', 'Memphis', 'Ohio State', 'Utah']: 1
+['Alabama', 'Clemson', 'Georgia', 'Utah']: 20
+['Alabama', 'Appalachian State', 'Michigan State', 'Oklahoma State']: 1
+['Alabama', 'Louisiana State', 'Ohio State', 'Utah']: 3
+['Clemson', 'Florida', 'Georgia', 'Oklahoma']: 17
+['Georgia', 'Oklahoma', 'Penn State', 'Wisconsin']: 1
+['Alabama', 'Georgia', 'Oklahoma', 'Utah']: 4
+['Louisiana State', 'Memphis', 'Michigan', 'Ohio State']: 1
+['Alabama', 'Clemson', 'Michigan', 'Washington']: 10
+['Alabama', 'Clemson', 'Notre Dame', 'Wisconsin']: 15
+['Boise State', 'Clemson', 'Georgia', 'Notre Dame']: 1
+['Clemson', 'Florida', 'Louisiana State', 'Notre Dame']: 2
+['Alabama', 'Auburn', 'Louisiana State', 'Oklahoma State']: 1
+['Alabama', 'Georgia', 'North Carolina State', 'Ohio State']: 1
+['Alabama', 'Clemson', 'Florida State', 'Notre Dame']: 1
+['Alabama', 'Memphis', 'Ohio State', 'Oklahoma']: 6
+['Alabama', 'Clemson', 'Notre Dame', 'Penn State']: 6
+['Alabama', 'Appalachian State', 'Florida', 'Washington']: 1
+['Alabama', 'Clemson', 'Florida', 'Miami FL']: 1
+['Boise State', 'Clemson', 'Georgia', 'Oklahoma']: 6
+['Florida', 'Georgia', 'Iowa', 'Oklahoma']: 1
+['Alabama', 'Boise State', 'Florida', 'Michigan']: 3
+['Georgia', 'Louisiana State', 'Oklahoma', 'Wisconsin']: 8
+['Central Florida', 'Georgia', 'Louisiana State', 'Oklahoma']: 3
+['Clemson', 'Georgia', 'Iowa', 'Utah']: 1
+['Alabama', 'Boise State', 'Missouri', 'Ohio State']: 1
+['Boise State', 'Clemson', 'Georgia', 'Mississippi State']: 3
+['Alabama', 'Clemson', 'Michigan', 'Penn State']: 4
+['Alabama', 'Central Florida', 'Clemson', 'Missouri']: 1
+['Appalachian State', 'Clemson', 'Georgia', 'Louisiana State']: 2
+['Alabama', 'Boise State', 'Georgia', 'Louisiana State']: 4
+['Alabama', 'Clemson', 'Memphis', 'Michigan']: 4
+['Alabama', 'Louisiana State', 'Ohio State', 'Penn State']: 5
+['Alabama', 'Florida', 'Notre Dame', 'Oklahoma State']: 1
+['Clemson', 'Georgia', 'Mississippi State', 'Ohio State']: 9
+['Central Florida', 'Georgia', 'Michigan', 'Mississippi State']: 1
+['Alabama', 'Notre Dame', 'Ohio State', 'Oklahoma State']: 2
+['Alabama', 'Louisiana State', 'Miami FL', 'Ohio State']: 2
+['Alabama', 'Central Florida', 'Georgia', 'Ohio State']: 5
+['Alabama', 'Florida', 'Penn State', 'Washington']: 1
+['Clemson', 'Michigan', 'Notre Dame', 'Oklahoma']: 1
+['Alabama', 'Clemson', 'Memphis', 'Miami FL']: 2
+['Memphis', 'Michigan', 'Oklahoma', 'Texas A&M']: 1
+['Alabama', 'Central Florida', 'Louisiana State', 'Oklahoma']: 3
+['Alabama', 'Clemson', 'Georgia', 'Miami FL']: 7
+['Alabama', 'Florida', 'Louisiana State', 'Wisconsin']: 4
+['Clemson', 'Georgia', 'Michigan State', 'Ohio State']: 2
+['Alabama', 'Boise State', 'Georgia', 'Ohio State']: 6
+['Clemson', 'Georgia', 'Michigan', 'Wisconsin']: 1
+['Alabama', 'Miami FL', 'Oklahoma', 'Utah']: 1
+['Georgia', 'Louisiana State', 'Miami FL', 'Ohio State']: 2
+['Clemson', 'Florida', 'Georgia', 'Memphis']: 2
+['Clemson', 'Georgia', 'North Carolina State', 'Washington']: 1
+['Alabama', 'Appalachian State', 'Georgia', 'Utah']: 1
+['Alabama', 'Georgia', 'Ohio State', 'Utah']: 8
+['Alabama', 'Boise State', 'Notre Dame', 'Penn State']: 1
+['Clemson', 'Louisiana State', 'Notre Dame', 'Wisconsin']: 2
+['Alabama', 'Auburn', 'Clemson', 'Louisiana State']: 6
+['Alabama', 'Georgia', 'Miami FL', 'Ohio State']: 5
+['Alabama', 'Louisiana State', 'Michigan', 'San Diego State']: 1
+['Georgia', 'Michigan', 'Oklahoma', 'Utah']: 1
+['Central Florida', 'Georgia', 'Mississippi State', 'Notre Dame']: 1
+['Alabama', 'Clemson', 'Georgia', 'Michigan State']: 2
+['Boise State', 'Georgia', 'Mississippi State', 'Oklahoma']: 1
+['Clemson', 'Georgia', 'North Texas', 'Ohio State']: 1
+['Alabama', 'Florida', 'Miami FL', 'Wisconsin']: 2
+['Alabama', 'Notre Dame', 'Penn State', 'Wisconsin']: 2
+['Clemson', 'Georgia', 'Michigan', 'Oregon']: 1
+['Alabama', 'Oklahoma', 'Penn State', 'Washington']: 2
+['Alabama', 'Missouri', 'Oklahoma', 'Washington']: 1
+['Clemson', 'Georgia', 'Oklahoma', 'Utah']: 1
+['Alabama', 'Clemson', 'Mississippi State', 'Notre Dame']: 2
+['Georgia', 'Louisiana State', 'Notre Dame', 'Penn State']: 2
+['Alabama', 'Cincinnati', 'Notre Dame', 'Ohio State']: 1
+['Alabama', 'North Texas', 'Notre Dame', 'Wisconsin']: 1
+['Boise State', 'Clemson', 'Florida', 'Louisiana State']: 1
+['Alabama', 'Clemson', 'Ohio State', 'Oklahoma State']: 5
+['Alabama', 'Georgia', 'Oklahoma', 'Virginia']: 1
+['Louisiana State', 'Notre Dame', 'Oklahoma', 'Wisconsin']: 2
+['Boise State', 'Mississippi State', 'Ohio State', 'Oklahoma']: 1
+['Appalachian State', 'Georgia', 'South Carolina', 'Virginia Tech']: 1
+['Alabama', 'Auburn', 'Michigan', 'Utah']: 1
+['Clemson', 'Georgia', 'Louisiana State', 'Penn State']: 8
+['Alabama', 'Appalachian State', 'Florida', 'Georgia']: 1
+['Georgia', 'Louisiana State', 'Michigan', 'Ohio State']: 1
+['Alabama', 'Florida', 'Georgia', 'Washington']: 2
+['Appalachian State', 'Georgia', 'Virginia Tech', 'Wisconsin']: 1
+['Clemson', 'Florida', 'Washington', 'Wisconsin']: 1
+['Alabama', 'Florida', 'Michigan', 'Notre Dame']: 4
+['Alabama', 'Auburn', 'Clemson', 'Penn State']: 2
+['Alabama', 'Michigan', 'Oklahoma State', 'Western Michigan']: 1
+['Louisiana State', 'Mississippi State', 'Oklahoma', 'Wisconsin']: 1
+['Alabama', 'Appalachian State', 'Ohio State', 'Washington']: 1
+['Alabama', 'Georgia', 'Oklahoma', 'Wisconsin']: 20
+['Alabama', 'Appalachian State', 'Clemson', 'Wisconsin']: 7
+['Alabama', 'Clemson', 'Georgia', 'North Texas']: 2
+['Alabama', 'Louisiana State', 'Oklahoma', 'Penn State']: 5
+['Appalachian State', 'Florida', 'Oklahoma', 'Texas A&M']: 1
+['Alabama', 'Florida', 'Oklahoma', 'Wisconsin']: 10
+['Alabama', 'Boise State', 'Florida', 'Notre Dame']: 2
+['Alabama', 'Clemson', 'Iowa', 'Oklahoma State']: 1
+['Clemson', 'Notre Dame', 'Oklahoma', 'Wisconsin']: 2
+['Alabama', 'Notre Dame', 'Western Michigan', 'Wisconsin']: 1
+['Alabama', 'Boise State', 'Clemson', 'Wisconsin']: 7
+['Clemson', 'Florida', 'Georgia', 'Louisiana State']: 10
+['Appalachian State', 'Clemson', 'Georgia', 'Oklahoma']: 1
+['Alabama', 'Oklahoma', 'Utah', 'Wisconsin']: 3
+['Alabama', 'Auburn', 'Florida', 'Washington']: 1
+['Alabama', 'Michigan State', 'Minnesota', 'Utah']: 1
+['Auburn', 'Clemson', 'Michigan', 'Penn State']: 1
+['Alabama', 'Auburn', 'Georgia', 'Oklahoma']: 9
+['Clemson', 'Florida', 'Louisiana State', 'Michigan']: 9
+['Alabama', 'Georgia', 'Missouri', 'Wisconsin']: 2
+['Alabama', 'Appalachian State', 'Florida', 'Iowa']: 1
+['Georgia', 'Louisiana State', 'Michigan', 'Mississippi State']: 2
+['Clemson', 'Louisiana State', 'Mississippi State', 'Penn State']: 1
+['Clemson', 'Louisiana State', 'Notre Dame', 'Oklahoma State']: 1
+['Louisiana State', 'Miami FL', 'Mississippi State', 'Oklahoma']: 1
+['Alabama', 'Appalachian State', 'Clemson', 'Louisiana State']: 3
+['Appalachian State', 'Georgia', 'Penn State', 'Wisconsin']: 1
+['Alabama', 'Auburn', 'Clemson', 'Washington']: 5
+['Alabama', 'Clemson', 'Iowa', 'Washington']: 3
+['Alabama', 'Auburn', 'Clemson', 'Florida']: 6
+['Florida', 'Georgia', 'Memphis', 'Ohio State']: 1
+['Alabama', 'Clemson', 'Iowa', 'Notre Dame']: 2
+['Auburn', 'Michigan', 'Mississippi State', 'Oklahoma']: 1
+['Alabama', 'Florida', 'Louisiana State', 'Penn State']: 1
+['Georgia', 'Mississippi State', 'Ohio State', 'Washington']: 1
+['Auburn', 'Louisiana State', 'Penn State', 'Texas A&M']: 1
+['Central Florida', 'Clemson', 'Florida', 'Oklahoma']: 1
+['Alabama', 'Clemson', 'Penn State', 'Wisconsin']: 2
+['Alabama', 'Florida', 'Louisiana Tech', 'Penn State']: 1
+['Appalachian State', 'Auburn', 'Florida', 'Louisiana State']: 1
+['Alabama', 'Tennessee', 'Utah', 'Wisconsin']: 1
+['Alabama', 'Boise State', 'Ohio State', 'Texas A&M']: 1
+['Alabama', 'Central Florida', 'Louisiana State', 'Virginia']: 1
+['Florida', 'Florida State', 'Texas A&M', 'Washington']: 1
+['Florida', 'Penn State', 'Texas A&M', 'Wisconsin']: 1
+['Alabama', 'Missouri', 'Notre Dame', 'Penn State']: 1
+['Alabama', 'Georgia', 'Ohio State', 'Penn State']: 3
+['Auburn', 'Clemson', 'Mississippi State', 'Penn State']: 1
+['Georgia', 'Louisiana State', 'Notre Dame', 'Oklahoma']: 2
+['Louisiana State', 'Michigan', 'Ohio State', 'Oklahoma']: 1
+['Georgia', 'Michigan', 'Oklahoma', 'South Carolina']: 1
+['Alabama', 'Boise State', 'Clemson', 'Mississippi State']: 5
+['Alabama', 'Boise State', 'Minnesota', 'Oklahoma']: 2
+['Alabama', 'Clemson', 'Oklahoma', 'South Florida']: 1
+['Alabama', 'Oklahoma', 'Penn State', 'Wisconsin']: 2
+['Georgia', 'Michigan', 'Ohio State', 'Oklahoma']: 5
+['Georgia', 'Oklahoma', 'Utah', 'Washington']: 1
+['Georgia', 'Louisiana State', 'Penn State', 'Wisconsin']: 1
+['Auburn', 'Clemson', 'Louisiana State', 'Oklahoma']: 1
+['Florida', 'Georgia', 'Louisiana State', 'Michigan']: 4
+['Alabama', 'Florida', 'Washington', 'Wisconsin']: 3
+['Clemson', 'Georgia', 'Memphis', 'Notre Dame']: 2
+['Alabama', 'Clemson', 'Oklahoma', 'Oregon']: 3
+['Appalachian State', 'Clemson', 'Georgia', 'Penn State']: 3
+['Auburn', 'Florida', 'Memphis', 'Oklahoma State']: 1
+['Georgia', 'Louisiana State', 'Michigan', 'Wisconsin']: 1
+['Alabama', 'Georgia', 'Penn State', 'Texas A&M']: 2
+['Alabama', 'Miami FL', 'Ohio State', 'Oklahoma']: 2
+['Alabama', 'Florida', 'Memphis', 'Notre Dame']: 2
+['Alabama', 'Michigan', 'Notre Dame', 'Oklahoma']: 3
+['Alabama', 'Louisiana State', 'Oklahoma', 'Utah']: 1
+['Alabama', 'Michigan', 'Notre Dame', 'Oklahoma State']: 1
+['Alabama', 'Appalachian State', 'Memphis', 'Ohio State']: 1
+['Alabama', 'Georgia', 'Mississippi State', 'Oklahoma']: 7
+['Alabama', 'Georgia', 'Louisiana State', 'Missouri']: 2
+['Appalachian State', 'Central Florida', 'Georgia', 'Wisconsin']: 1
+['Alabama', 'Georgia', 'Notre Dame', 'Oklahoma']: 4
+['Alabama', 'Central Florida', 'Florida', 'Louisiana State']: 1
+['Army', 'Clemson', 'Georgia', 'Wisconsin']: 1
+['Auburn', 'Clemson', 'Louisiana State', 'Ohio State']: 3
+['Louisiana State', 'Notre Dame', 'Ohio State', 'Oklahoma']: 2
+['Alabama', 'Clemson', 'Ohio State', 'Utah']: 9
+['Alabama', 'Central Florida', 'Clemson', 'Oklahoma']: 12
+['Alabama', 'Central Florida', 'Clemson', 'Utah']: 1
+['Clemson', 'Georgia', 'Oklahoma', 'Wisconsin']: 18
+['Clemson', 'Florida', 'Iowa', 'Texas A&M']: 1
+['Alabama', 'Boise State', 'Michigan', 'Texas A&M']: 1
+['Alabama', 'Appalachian State', 'Louisiana State', 'Oklahoma']: 3
+['Clemson', 'Georgia', 'Oklahoma State', 'Wisconsin']: 1
+['Louisiana State', 'Mississippi State', 'Notre Dame', 'Oklahoma']: 1
+['Alabama', 'Central Florida', 'Louisiana State', 'Notre Dame']: 1
+['Alabama', 'Georgia', 'Missouri', 'Utah']: 1
+['Alabama', 'Clemson', 'Notre Dame', 'Utah']: 4
+['Alabama', 'Iowa', 'Miami FL', 'Michigan']: 1
+['Clemson', 'Florida', 'Ohio State', 'Wisconsin']: 2
+['Alabama', 'Georgia', 'Michigan', 'Penn State']: 4
+['Clemson', 'Louisiana State', 'Oklahoma', 'Washington']: 3
+['Alabama', 'Appalachian State', 'Ohio State', 'Oklahoma']: 3
+['Florida', 'Georgia', 'Ohio State', 'Oklahoma']: 5
+['Alabama', 'Clemson', 'Michigan', 'Wisconsin']: 2
+['Alabama', 'Missouri', 'Oklahoma', 'Wisconsin']: 2
+['Alabama', 'Clemson', 'Memphis', 'Washington']: 6
+['Alabama', 'Memphis', 'Ohio State', 'Penn State']: 2
+['Florida', 'Georgia', 'Ohio State', 'Penn State']: 1
+['Appalachian State', 'Central Florida', 'Georgia', 'Ohio State']: 2
+['Clemson', 'Georgia', 'Oklahoma', 'Oregon']: 1
+['Central Florida', 'Florida', 'Georgia', 'Oklahoma']: 1
+['Georgia', 'Louisiana State', 'Miami FL', 'Oklahoma']: 2
+['Clemson', 'Notre Dame', 'Ohio State', 'Washington']: 1
+['Alabama', 'Auburn', 'Michigan', 'Ohio State']: 1
+['Appalachian State', 'Auburn', 'Clemson', 'Georgia']: 1
+['Memphis', 'Notre Dame', 'Oklahoma', 'Penn State']: 1
+['Alabama', 'Michigan', 'Notre Dame', 'Texas A&M']: 2
+['Alabama', 'Clemson', 'Georgia', 'Iowa']: 4
+['Alabama', 'Clemson', 'Mississippi State', 'Oklahoma']: 10
+['Clemson', 'Michigan', 'Oklahoma', 'Wisconsin']: 1
+['Georgia', 'Notre Dame', 'Ohio State', 'Oklahoma']: 4
+['Florida', 'Georgia', 'Oklahoma', 'Penn State']: 1
+['Alabama', 'Appalachian State', 'Georgia', 'Michigan']: 9
+['Alabama', 'Clemson', 'Memphis', 'Mississippi State']: 3
+['Alabama', 'Notre Dame', 'Penn State', 'Washington']: 3
+['Alabama', 'Georgia', 'Louisiana State', 'Oklahoma State']: 4
+['Alabama', 'Boise State', 'Central Florida', 'Clemson']: 1
+['Alabama', 'Memphis', 'Oklahoma', 'Wisconsin']: 2
+['Alabama', 'Georgia', 'Oklahoma State', 'Washington']: 2
+['Alabama', 'Notre Dame', 'Ohio State', 'Oregon']: 1
+['Florida', 'Louisiana State', 'Ohio State', 'Washington']: 1
+['Alabama', 'Georgia', 'Texas A&M', 'Washington']: 1
+['Alabama', 'Clemson', 'Ohio State', 'Texas Christian']: 1
+['Alabama', 'Florida', 'Notre Dame', 'Wisconsin']: 4
+['Alabama', 'Central Florida', 'Clemson', 'Florida']: 2
+['Alabama', 'Clemson', 'Florida', 'Penn State']: 6
+['Florida', 'Missouri', 'Oklahoma', 'Penn State']: 1
+['Georgia', 'Memphis', 'Oklahoma State', 'Wisconsin']: 1
+['Louisiana State', 'Mississippi State', 'Notre Dame', 'Ohio State']: 1
+['Alabama', 'Louisiana State', 'Michigan State', 'Ohio State']: 1
+['Alabama', 'Auburn', 'Georgia', 'Michigan']: 4
+['Georgia', 'Ohio State', 'Oklahoma', 'Washington']: 3
+['Alabama', 'Ohio State', 'Texas A&M', 'Washington State']: 1
+['Auburn', 'Florida', 'Ohio State', 'Oklahoma']: 1
+['Appalachian State', 'Louisiana State', 'Mississippi State', 'Utah']: 1
+['Alabama', 'Georgia', 'Notre Dame', 'Utah']: 1
+['Alabama', 'Central Florida', 'Clemson', 'Washington']: 1
+['Clemson', 'Fresno State', 'Louisiana State', 'Missouri']: 1
+['Georgia', 'Notre Dame', 'Ohio State', 'Utah']: 1
+['Central Florida', 'Clemson', 'Georgia', 'Notre Dame']: 1
+['Alabama', 'Florida', 'Notre Dame', 'Oklahoma']: 6
+['Central Florida', 'Louisiana State', 'Mississippi State', 'Wisconsin']: 1
+['Alabama', 'Georgia', 'Notre Dame', 'Wisconsin']: 2
+['Clemson', 'Louisiana State', 'Ohio State', 'Texas Christian']: 1
+['Alabama', 'Georgia', 'Memphis', 'Penn State']: 1
+['Alabama', 'Clemson', 'Michigan State', 'Ohio State']: 2
+['Clemson', 'Georgia', 'Michigan', 'Utah']: 2
+['Clemson', 'Georgia', 'Louisiana State', 'Oregon']: 2
+['Mississippi State', 'Notre Dame', 'Oklahoma', 'Wisconsin']: 1
+['Florida', 'Louisiana State', 'Mississippi State', 'Wisconsin']: 1
+['Central Florida', 'Clemson', 'Florida', 'Georgia']: 2
+['Florida', 'Georgia', 'Michigan', 'Virginia']: 1
+['Alabama', 'Auburn', 'Louisiana State', 'Oklahoma']: 2
+['Clemson', 'Penn State', 'Texas A&M', 'Wisconsin']: 1
+['Alabama', 'Clemson', 'Mississippi State', 'Ohio State']: 8
+['Alabama', 'Boise State', 'Oklahoma', 'Penn State']: 1
+['Alabama', 'Central Florida', 'Michigan', 'Oklahoma']: 1
+['Alabama', 'Florida', 'Georgia', 'San Diego State']: 1
+['Alabama', 'Memphis', 'Notre Dame', 'Ohio State']: 1
+['Alabama', 'Florida', 'Louisiana State', 'Ohio State']: 7
+['Georgia', 'Oklahoma', 'Penn State', 'Texas A&M']: 1
+['Florida State', 'Georgia', 'Oklahoma', 'Wisconsin']: 1
+['Alabama', 'Memphis', 'Michigan', 'Penn State']: 1
+['Central Florida', 'Clemson', 'Georgia', 'Missouri']: 1
+['Alabama', 'Georgia', 'Memphis', 'Utah']: 1
+['Alabama', 'Auburn', 'Central Florida', 'Georgia']: 2
+['Auburn', 'Clemson', 'Florida', 'Wisconsin']: 2
+['Alabama', 'Georgia', 'Notre Dame', 'Oklahoma State']: 1
+['Mississippi State', 'Notre Dame', 'Ohio State', 'Texas A&M']: 1
+['Florida State', 'Georgia', 'Louisiana State', 'Michigan']: 1
+['Florida', 'Florida State', 'Georgia', 'Ohio State']: 1
+['Clemson', 'Louisiana State', 'Ohio State', 'Tennessee']: 1
+['Alabama', 'Oklahoma', 'Penn State', 'Virginia Tech']: 1
+['Alabama', 'Auburn', 'Boise State', 'Georgia']: 1
+['Boise State', 'Clemson', 'Florida', 'Oklahoma']: 1
+['Central Florida', 'Clemson', 'Georgia', 'Ohio State']: 3
+['Alabama', 'Miami FL', 'Ohio State', 'Oregon']: 1
+['Clemson', 'Georgia', 'Notre Dame', 'Ohio State']: 2
+['Alabama', 'Clemson', 'Fresno State', 'Notre Dame']: 1
+['Alabama', 'Appalachian State', 'Georgia', 'Oklahoma']: 5
+['Alabama', 'Central Florida', 'Florida', 'Notre Dame']: 1
+['Clemson', 'Florida', 'Mississippi State', 'Oklahoma State']: 1
+['Alabama', 'Oklahoma', 'Tennessee', 'Wisconsin']: 1
+['Alabama', 'Florida State', 'Georgia', 'Ohio State']: 2
+['Alabama', 'Auburn', 'Florida', 'Oklahoma']: 2
+['Alabama', 'Notre Dame', 'Ohio State', 'Penn State']: 3
+['Auburn', 'Clemson', 'Oklahoma', 'Oregon']: 2
+['Alabama', 'Louisiana State', 'Ohio State', 'Troy']: 1
+['Louisiana State', 'Notre Dame', 'Ohio State', 'Virginia Tech']: 1
+['Alabama', 'Ohio State', 'Oklahoma', 'South Carolina']: 1
+['Auburn', 'Mississippi State', 'Ohio State', 'Utah']: 1
+['Alabama', 'Memphis', 'Michigan', 'Wisconsin']: 1
+['Boise State', 'Georgia', 'Michigan', 'Washington']: 2
+['Clemson', 'Florida', 'Penn State', 'Wisconsin']: 1
+['Boise State', 'Clemson', 'Georgia', 'Louisiana State']: 4
+['Alabama', 'Central Florida', 'Georgia', 'Oklahoma']: 6
+['Clemson', 'Florida', 'Mississippi State', 'Oklahoma']: 1
+['Alabama', 'Central Florida', 'Clemson', 'Wisconsin']: 4
+['Alabama', 'Central Florida', 'Notre Dame', 'Utah']: 1
+['Louisiana State', 'Miami FL', 'Michigan', 'Oklahoma']: 1
+['Alabama', 'Florida State', 'Michigan', 'Oklahoma']: 1
+['Alabama', 'Louisiana State', 'Notre Dame', 'Wisconsin']: 4
+['Alabama', 'Appalachian State', 'Ohio State', 'Stanford']: 1
+['Alabama', 'Cincinnati', 'Georgia', 'Oklahoma']: 1
+['Clemson', 'Georgia', 'Michigan', 'Notre Dame']: 1
+['Boise State', 'Clemson', 'Mississippi State', 'Western Michigan']: 1
+['Florida', 'Louisiana State', 'Memphis', 'Michigan']: 1
+['Alabama', 'Boise State', 'Clemson', 'Penn State']: 3
+['Alabama', 'Clemson', 'Mississippi State', 'Washington']: 1
+['Alabama', 'Clemson', 'Florida', 'Utah']: 5
+['Alabama', 'Boise State', 'Georgia', 'Oregon']: 1
+['Alabama', 'Fresno State', 'Georgia', 'Oklahoma']: 1
+['Alabama', 'Clemson', 'Oklahoma State', 'Penn State']: 1
+['Alabama', 'Georgia', 'Louisiana State', 'Utah']: 2
+['Alabama', 'Boise State', 'Michigan', 'Oklahoma']: 3
+['Alabama', 'Boise State', 'Clemson', 'Notre Dame']: 4
+['Florida', 'Georgia', 'Mississippi State', 'Ohio State']: 1
+['Alabama', 'Memphis', 'Ohio State', 'Wisconsin']: 1
+['Appalachian State', 'Clemson', 'Georgia', 'Wisconsin']: 2
+['Baylor', 'Clemson', 'Mississippi State', 'Penn State']: 1
+['Alabama', 'Cincinnati', 'Clemson', 'Georgia']: 2
+['Alabama', 'Michigan', 'Oklahoma State', 'Wisconsin']: 1
+['Alabama', 'Appalachian State', 'Florida', 'Michigan']: 2
+['Alabama', 'Georgia', 'Louisiana State', 'Memphis']: 5
+['Alabama', 'Clemson', 'Mississippi State', 'Penn State']: 4
+['Alabama', 'Clemson', 'Florida State', 'Georgia']: 2
+['Alabama', 'Georgia', 'Oklahoma', 'Texas A&M']: 2
+['Auburn', 'Louisiana State', 'Missouri', 'Wisconsin']: 1
+['Alabama', 'Clemson', 'Michigan', 'Utah']: 6
+['Memphis', 'Notre Dame', 'Ohio State', 'Oklahoma']: 2
+['Alabama', 'Georgia', 'Miami FL', 'Penn State']: 1
+['Alabama', 'Georgia', 'Miami FL', 'Michigan']: 4
+['Clemson', 'Florida', 'Oklahoma', 'Wisconsin']: 1
+['Auburn', 'Florida', 'Louisiana State', 'Mississippi State']: 1
+['Alabama', 'Auburn', 'Ohio State', 'Utah']: 4
+['Alabama', 'Boise State', 'Florida', 'Wisconsin']: 1
+['Auburn', 'Clemson', 'Florida', 'Georgia']: 2
+['Alabama', 'Florida', 'Georgia', 'Memphis']: 1
+['Clemson', 'Louisiana State', 'Ohio State', 'Troy']: 1
+['Clemson', 'Louisiana State', 'Michigan', 'Wisconsin']: 1
+['Alabama', 'Central Florida', 'Cincinnati', 'Mississippi State']: 1
+['Alabama', 'Boise State', 'Ohio State', 'Penn State']: 1
+['Georgia', 'Louisiana State', 'Mississippi State', 'Ohio State']: 6
+['Alabama', 'Clemson', 'Iowa', 'Louisiana State']: 1
+['Alabama', 'Georgia', 'Louisiana State', 'Penn State']: 9
+['Alabama', 'Georgia', 'Penn State', 'Tennessee']: 1
+['Clemson', 'Florida', 'Louisiana State', 'Penn State']: 3
+['Alabama', 'Boise State', 'Louisiana State', 'Ohio State']: 2
+['Alabama', 'Oklahoma', 'Texas A&M', 'Utah']: 1
+['Boise State', 'Clemson', 'Missouri', 'Notre Dame']: 1
+['Alabama', 'Georgia', 'Ohio State', 'Troy']: 1
+['Alabama', 'Florida', 'Mississippi State', 'Oklahoma']: 2
+['Clemson', 'Louisiana State', 'Michigan', 'Oklahoma']: 5
+['Alabama', 'Clemson', 'Florida', 'Oklahoma State']: 1
+['Appalachian State', 'Clemson', 'Mississippi State', 'Wisconsin']: 1
+['Alabama', 'Clemson', 'Michigan State', 'Utah']: 1
+['Alabama', 'Florida', 'Notre Dame', 'Washington']: 2
+['Florida', 'Georgia', 'Louisiana State', 'Penn State']: 1
+['Alabama', 'Georgia', 'Louisiana State', 'Wisconsin']: 3
+['Georgia', 'Louisiana State', 'Ohio State', 'Virginia Tech']: 1
+['Clemson', 'Louisiana State', 'Minnesota', 'Notre Dame']: 1
+['Alabama', 'Louisiana State', 'Ohio State', 'Virginia Tech']: 1
+['Georgia', 'Louisiana State', 'Washington', 'Wisconsin']: 1
+['Alabama', 'Georgia', 'Stanford', 'Utah']: 1
+['Alabama', 'Florida', 'Ohio State', 'Penn State']: 2
+['Florida', 'Georgia', 'Mississippi State', 'Wisconsin']: 1
+['Alabama', 'Clemson', 'Ohio State', 'Virginia Tech']: 1
+['Alabama', 'Clemson', 'Georgia', 'Southern California']: 1
+['Alabama', 'Auburn', 'Louisiana State', 'Missouri']: 1
+['Alabama', 'Auburn', 'Clemson', 'Michigan']: 7
+['Clemson', 'Georgia', 'Oklahoma', 'Washington']: 6
+['Alabama', 'Georgia', 'Nebraska', 'Oklahoma']: 1
+['Appalachian State', 'Georgia', 'Ohio State', 'Utah']: 1
+['Boise State', 'Louisiana State', 'Memphis', 'Virginia Tech']: 1
+['Clemson', 'Georgia', 'Miami FL', 'Wisconsin']: 2
+['Alabama', 'Clemson', 'Miami FL', 'Michigan']: 1
+['Alabama', 'Florida State', 'Louisiana State', 'Oklahoma']: 1
+['Clemson', 'Florida', 'Louisiana State', 'Memphis']: 2
+['Auburn', 'Michigan', 'Mississippi State', 'Penn State']: 1
+['Auburn', 'Clemson', 'Michigan', 'Oklahoma']: 1
+['Auburn', 'Clemson', 'Miami FL', 'Penn State']: 1
+['Alabama', 'Clemson', 'Georgia', 'Missouri']: 1
+['Alabama', 'Louisiana State', 'Michigan', 'Penn State']: 2
+['Auburn', 'Clemson', 'Georgia', 'Louisiana State']: 4
+['Alabama', 'Boise State', 'Oklahoma', 'Texas A&M']: 2
+['Alabama', 'Clemson', 'Georgia', 'Virginia Tech']: 2
+['Clemson', 'Mississippi State', 'Ohio State', 'Washington']: 1
+['Alabama', 'Memphis', 'Miami FL', 'Penn State']: 1
+['Alabama', 'Georgia', 'Michigan', 'Wisconsin']: 1
+['Alabama', 'Auburn', 'Boise State', 'Oklahoma']: 1
+['Boise State', 'Georgia', 'Oklahoma', 'Texas A&M']: 1
+['Alabama', 'Penn State', 'Utah', 'Wisconsin']: 1
+['Alabama', 'Georgia', 'Missouri', 'Notre Dame']: 1
+['Boise State', 'Georgia', 'Michigan', 'Oklahoma']: 1
+['Alabama', 'Boise State', 'Memphis', 'Wisconsin']: 1
+['Clemson', 'Florida', 'Georgia', 'Penn State']: 2
+['Appalachian State', 'Florida', 'Louisiana State', 'Wisconsin']: 1
+['Alabama', 'Florida', 'Georgia', 'Oregon']: 1
+['Alabama', 'Clemson', 'Penn State', 'Utah']: 5
+['Alabama', 'Boise State', 'Texas A&M', 'Wisconsin']: 1
+['Alabama', 'Clemson', 'Memphis', 'Penn State']: 1
+['Appalachian State', 'Clemson', 'Georgia', 'Michigan']: 3
+['Clemson', 'Louisiana State', 'Notre Dame', 'Washington']: 2
+['Louisiana State', 'Ohio State', 'Oklahoma State', 'Utah']: 1
+['Alabama', 'Missouri', 'Penn State', 'Utah']: 1
+['Alabama', 'Clemson', 'Texas', 'Wisconsin']: 1
+['Boise State', 'Florida', 'Michigan', 'Oregon']: 1
+['Auburn', 'Clemson', 'Notre Dame', 'Wisconsin']: 1
+['Auburn', 'Clemson', 'Minnesota', 'Notre Dame']: 1
+['Auburn', 'Clemson', 'Louisiana State', 'Wisconsin']: 2
+['Georgia', 'Louisiana State', 'Utah', 'Wisconsin']: 1
+['Alabama', 'Central Florida', 'Georgia', 'Penn State']: 2
+['Alabama', 'Louisiana State', 'Notre Dame', 'Utah']: 2
+['Clemson', 'Florida', 'Ohio State', 'Washington']: 1
+['Auburn', 'Clemson', 'Florida', 'Penn State']: 1
+['Georgia', 'Louisiana State', 'Michigan', 'Washington']: 1
+['Alabama', 'Central Florida', 'Clemson', 'Penn State']: 1
+['Alabama', 'Boise State', 'Central Florida', 'Oklahoma']: 2
+['Alabama', 'Central Florida', 'Ohio State', 'Utah']: 1
+['Alabama', 'Notre Dame', 'Ohio State', 'Utah']: 4
+['Auburn', 'Florida State', 'Georgia', 'Ohio State']: 1
+['Alabama', 'Louisiana State', 'Michigan', 'Notre Dame']: 1
+['Florida', 'Georgia', 'Michigan', 'Ohio State']: 1
+['Georgia', 'Ohio State', 'Oklahoma', 'Wisconsin']: 1
+['Alabama', 'Florida', 'Notre Dame', 'Utah']: 1
+['Central Florida', 'Georgia', 'Louisiana State', 'South Carolina']: 1
+['Appalachian State', 'Clemson', 'Georgia', 'Washington']: 2
+['Alabama', 'Clemson', 'Oklahoma State', 'Wisconsin']: 2
+['Louisiana State', 'Memphis', 'Ohio State', 'Oklahoma']: 2
+['Alabama', 'Georgia', 'Louisiana State', 'Stanford']: 1
+['Clemson', 'Georgia', 'Louisiana State', 'Washington']: 4
+['Alabama', 'Clemson', 'Indiana', 'Louisiana State']: 1
+['Alabama', 'Georgia', 'Ohio State', 'Syracuse']: 1
+['Alabama', 'Central Florida', 'Oklahoma', 'Wisconsin']: 3
+['Clemson', 'Georgia', 'Mississippi State', 'Washington']: 1
+['Georgia', 'Mississippi State', 'Ohio State', 'Oklahoma']: 3
+['Auburn', 'Clemson', 'Memphis', 'Oklahoma']: 1
+['Alabama', 'Auburn', 'Boise State', 'Washington']: 1
+['Georgia', 'Oklahoma', 'Utah State', 'Virginia']: 1
+['Alabama', 'Georgia', 'Michigan', 'Oregon']: 1
+['Alabama', 'Florida', 'Memphis', 'Penn State']: 1
+['Alabama', 'Fresno State', 'Georgia', 'Michigan']: 1
+['Alabama', 'Appalachian State', 'Michigan', 'Oklahoma']: 4
+['Clemson', 'Georgia', 'Louisiana State', 'Texas A&M']: 1
+['Alabama', 'Boise State', 'Georgia', 'Missouri']: 1
+['Alabama', 'Appalachian State', 'Oklahoma', 'Wisconsin']: 2
+['Alabama', 'Louisiana State', 'Ohio State', 'Washington']: 3
+['Clemson', 'Georgia', 'Mississippi State', 'Notre Dame']: 1
+['Clemson', 'Georgia', 'Memphis', 'Penn State']: 2
+['Alabama', 'Michigan State', 'Oklahoma', 'Utah']: 1
+['Alabama', 'Clemson', 'Troy', 'Washington']: 1
+['Alabama', 'Mississippi State', 'Ohio State', 'Washington']: 1
+['Clemson', 'Notre Dame', 'Ohio State', 'Utah']: 1
+['Alabama', 'Florida', 'Notre Dame', 'Penn State']: 1
+['Clemson', 'Florida State', 'Georgia', 'Michigan']: 1
+['Alabama', 'Ohio State', 'Oklahoma', 'Stanford']: 1
+['Boise State', 'Clemson', 'Florida', 'Ohio State']: 1
+['Alabama', 'Notre Dame', 'Oklahoma', 'Stanford']: 1
+['Alabama', 'Auburn', 'Michigan', 'Penn State']: 2
+['Alabama', 'Clemson', 'Michigan', 'Mississippi State']: 1
+['Auburn', 'Georgia', 'Ohio State', 'Texas A&M']: 1
+['Alabama', 'Appalachian State', 'Miami FL', 'Washington']: 1
+['Georgia', 'Miami FL', 'Oklahoma', 'Penn State']: 1
+['Alabama', 'Florida', 'Michigan', 'Utah']: 1
+['Clemson', 'Louisiana State', 'Penn State', 'Washington']: 2
+['Alabama', 'Clemson', 'Michigan', 'Missouri']: 4
+['Alabama', 'Louisiana State', 'Penn State', 'Wisconsin']: 1
+['Alabama', 'Florida', 'Oklahoma', 'Penn State']: 1
+['Clemson', 'Florida', 'Georgia', 'Michigan']: 4
+['Alabama', 'Clemson', 'Michigan', 'Oklahoma State']: 4
+['Georgia', 'Louisiana State', 'Oklahoma', 'Utah']: 1
+['Georgia', 'Missouri', 'Oklahoma', 'Wisconsin']: 1
+['Auburn', 'Louisiana State', 'Notre Dame', 'Wisconsin']: 1
+['Boise State', 'Georgia', 'Louisiana State', 'Memphis']: 1
+['Alabama', 'Florida State', 'Notre Dame', 'Ohio State']: 1
+['Alabama', 'Florida', 'Ohio State', 'Utah']: 3
+['Georgia', 'Louisiana State', 'Texas A&M', 'Washington']: 1
+['Clemson', 'Georgia', 'Oregon', 'Wisconsin']: 2
+['Georgia', 'Ohio State', 'Oklahoma', 'Utah']: 3
+['Alabama', 'Georgia', 'Oklahoma State', 'Troy']: 1
+['Alabama', 'Kentucky', 'Ohio State', 'Oklahoma']: 1
+['Alabama', 'Army', 'Georgia', 'Oklahoma']: 1
+['Louisiana State', 'Michigan', 'Ohio State', 'Washington']: 1
+['Georgia', 'Louisiana State', 'Michigan', 'Penn State']: 1
+['Alabama', 'Auburn', 'Florida', 'Michigan']: 1
+['Alabama', 'Appalachian State', 'Penn State', 'Utah']: 1
+['Alabama', 'Georgia', 'Penn State', 'Wisconsin']: 2
+['Alabama', 'Georgia', 'Mississippi State', 'Wisconsin']: 1
+['Alabama', 'Clemson', 'Ohio State', 'Southern California']: 1
+['Florida', 'Louisiana State', 'Notre Dame', 'Ohio State']: 2
+['Boise State', 'Florida', 'Georgia', 'Oklahoma']: 1
+['Alabama', 'Central Florida', 'Louisiana State', 'Michigan']: 1
+['Appalachian State', 'Clemson', 'Mississippi State', 'Penn State']: 1
+['Florida', 'Louisiana State', 'Ohio State', 'Southern California']: 1
+['Alabama', 'Boise State', 'Florida', 'Oklahoma']: 2
+['Alabama', 'Michigan', 'Missouri', 'Oklahoma']: 3
+['Alabama', 'Florida', 'Louisiana State', 'Michigan']: 3
+['Central Florida', 'Clemson', 'Georgia', 'Wisconsin']: 1
+['Alabama', 'Auburn', 'Oklahoma', 'Wisconsin']: 1
+['Clemson', 'Florida', 'Louisiana State', 'Wisconsin']: 1
+['Auburn', 'Boise State', 'Georgia', 'Ohio State']: 1
+['Auburn', 'Clemson', 'Florida', 'Louisiana State']: 2
+['Florida', 'Louisiana State', 'Oklahoma', 'Penn State']: 1
+['Clemson', 'Iowa', 'Louisiana State', 'Ohio State']: 1
+['Alabama', 'Central Florida', 'Clemson', 'Western Michigan']: 1
+['Alabama', 'Central Florida', 'Georgia', 'Louisiana State']: 1
+['Alabama', 'Georgia', 'Oklahoma', 'Toledo']: 1
+['Clemson', 'Mississippi State', 'Ohio State', 'Penn State']: 1
+['Alabama', 'Baylor', 'Louisiana State', 'Ohio State']: 1
+['Boise State', 'Clemson', 'Louisiana State', 'Oklahoma']: 2
+['Alabama', 'Appalachian State', 'Florida', 'Oregon']: 1
+['Alabama', 'Florida', 'Notre Dame', 'Texas Tech']: 1
+['Alabama', 'Central Florida', 'Penn State', 'Wisconsin']: 2
+['Alabama', 'Boise State', 'Louisiana State', 'Wisconsin']: 2
+['Alabama', 'Appalachian State', 'Auburn', 'Oklahoma']: 2
+['Clemson', 'Florida', 'Georgia', 'Washington']: 1
+['Georgia', 'Louisiana State', 'Missouri', 'Wisconsin']: 1
+['Alabama', 'Memphis', 'Notre Dame', 'Washington']: 1
+['Alabama', 'Louisiana State', 'Memphis', 'Oklahoma']: 3
+['Alabama', 'Boise State', 'Georgia', 'Notre Dame']: 2
+['Alabama', 'Florida', 'Michigan', 'Penn State']: 2
+['Alabama', 'Boise State', 'Louisiana State', 'Penn State']: 2
+['Alabama', 'Georgia', 'Missouri', 'Penn State']: 1
+['Georgia', 'Mississippi State', 'Oklahoma', 'Washington']: 2
+['Auburn', 'Georgia', 'Louisiana State', 'Penn State']: 1
+['Georgia', 'North Carolina State', 'Ohio State', 'Oklahoma']: 1
+['Appalachian State', 'Boise State', 'Clemson', 'Georgia']: 1
+['Alabama', 'Baylor', 'Clemson', 'Ohio State']: 1
+['Boise State', 'Clemson', 'Michigan', 'Ohio State']: 1
+['Georgia', 'Louisiana State', 'Mississippi State', 'Wisconsin']: 2
+['Alabama', 'Georgia', 'Iowa', 'Washington']: 1
+['Alabama', 'Ohio State', 'Washington', 'Wisconsin']: 1
+['Alabama', 'Clemson', 'Florida', 'Florida State']: 1
+['Alabama', 'Memphis', 'Ohio State', 'Oklahoma State']: 1
+['Georgia', 'Michigan', 'Michigan State', 'Oklahoma']: 1
+['Georgia', 'Louisiana State', 'Ohio State', 'Oklahoma State']: 1
+['Auburn', 'Clemson', 'Louisiana State', 'Michigan']: 2
+['Alabama', 'Georgia', 'Missouri', 'Oklahoma']: 2
+['Clemson', 'Georgia', 'Ohio State', 'Washington']: 4
+['Auburn', 'Georgia', 'Louisiana State', 'Oklahoma']: 4
+['Auburn', 'Boise State', 'Georgia', 'Louisiana State']: 1
+['Alabama', 'Michigan', 'Oklahoma', 'Texas A&M']: 2
+['Central Florida', 'Georgia', 'Missouri', 'Oklahoma']: 1
+['Alabama', 'Appalachian State', 'Central Florida', 'Ohio State']: 3
+['Alabama', 'Central Florida', 'Cincinnati', 'Clemson']: 1
+['Alabama', 'Clemson', 'Florida State', 'Oklahoma']: 1
+['Alabama', 'Florida', 'Georgia', 'Virginia']: 1
+['Georgia', 'Louisiana State', 'Miami FL', 'Notre Dame']: 1
+['Alabama', 'Georgia', 'Michigan State', 'Ohio State']: 1
+['Alabama', 'Appalachian State', 'Penn State', 'Virginia']: 1
+['Clemson', 'Georgia', 'Louisiana State', 'Memphis']: 4
+['Auburn', 'Georgia', 'Notre Dame', 'Oklahoma']: 2
+['Florida', 'Georgia', 'Michigan', 'Washington']: 1
+['Clemson', 'Georgia', 'Memphis', 'Mississippi State']: 1
+['Alabama', 'Appalachian State', 'Mississippi State', 'Ohio State']: 1
+['Alabama', 'Appalachian State', 'Georgia', 'Missouri']: 2
+['Alabama', 'Georgia', 'Louisiana State', 'Mississippi State']: 1
+['Clemson', 'Florida', 'Oklahoma', 'Penn State']: 1
+['Alabama', 'Florida', 'Florida State', 'Louisiana State']: 1
+['Alabama', 'Appalachian State', 'Ohio State', 'Utah']: 1
+['Appalachian State', 'Florida', 'Louisiana State', 'Washington']: 1
+['Alabama', 'Appalachian State', 'Miami FL', 'Notre Dame']: 1
+['Alabama', 'Ohio State', 'Oklahoma', 'Texas A&M']: 1
+['Alabama', 'Auburn', 'Memphis', 'Oklahoma']: 1
+['Florida', 'Georgia', 'Oklahoma', 'Wisconsin']: 3
+['Alabama', 'Cincinnati', 'Ohio State', 'Washington']: 1
+['Alabama', 'Notre Dame', 'Texas A&M', 'Washington']: 1
+['Alabama', 'Clemson', 'Louisiana State', 'Michigan State']: 1
+['Clemson', 'Florida', 'Ohio State', 'Oklahoma']: 4
+['Alabama', 'Louisiana State', 'Michigan State', 'Notre Dame']: 1
+['Florida', 'Ohio State', 'Oklahoma', 'Virginia Tech']: 1
+['Clemson', 'Georgia', 'Michigan', 'Penn State']: 3
+['Alabama', 'Clemson', 'Penn State', 'Virginia Tech']: 1
+['Alabama', 'Oklahoma', 'Penn State', 'Texas A&M']: 1
+['Alabama', 'Brigham Young', 'Clemson', 'Oklahoma']: 2
+['Alabama', 'Florida', 'Louisiana State', 'Missouri']: 2
+['Alabama', 'Georgia', 'Louisiana State', 'Notre Dame']: 2
+['Alabama', 'Memphis', 'Notre Dame', 'Oklahoma']: 2
+['Georgia', 'Louisiana State', 'Memphis', 'Miami FL']: 1
+['Alabama', 'Appalachian State', 'Notre Dame', 'Wisconsin']: 1
+['Appalachian State', 'Clemson', 'Louisiana State', 'Mississippi State']: 1
+['Alabama', 'Appalachian State', 'Boise State', 'Wisconsin']: 1
+['Clemson', 'Louisiana State', 'Michigan', 'Ohio State']: 1
+['Georgia', 'Michigan State', 'Ohio State', 'Oklahoma']: 1
+['Alabama', 'Michigan', 'Notre Dame', 'Washington']: 1
+['Alabama', 'North Carolina State', 'Oklahoma State', 'Washington State']: 1
+['Alabama', 'Auburn', 'Florida', 'Mississippi State']: 1
+['Clemson', 'Louisiana State', 'Oklahoma', 'Texas A&M']: 1
+['Alabama', 'Florida', 'Michigan', 'Washington']: 3
+['Florida', 'Georgia', 'Louisiana State', 'Wisconsin']: 1
+['Clemson', 'Georgia', 'Louisiana State', 'Missouri']: 2
+['Alabama', 'Clemson', 'Florida', 'Memphis']: 3
+['Alabama', 'Michigan', 'Ohio State', 'Washington']: 1
+['Auburn', 'Florida', 'Georgia', 'Louisiana State']: 1
+['Appalachian State', 'Georgia', 'Louisiana State', 'Oklahoma']: 1
+['Alabama', 'Appalachian State', 'Boise State', 'Ohio State']: 2
+['Alabama', 'Florida', 'Florida State', 'Ohio State']: 1
+['Alabama', 'Louisiana State', 'Notre Dame', 'Ohio State']: 2
+['Alabama', 'Clemson', 'Miami FL', 'Notre Dame']: 1
+['Appalachian State', 'Clemson', 'Florida', 'Georgia']: 1
+['Alabama', 'Clemson', 'Louisiana State', 'Virginia Tech']: 1
+['Clemson', 'Louisiana State', 'Mississippi State', 'Ohio State']: 2
+['Appalachian State', 'Georgia', 'Michigan', 'Texas A&M']: 1
+['Clemson', 'Louisiana State', 'Michigan', 'Utah']: 1
+['Appalachian State', 'Auburn', 'Louisiana State', 'Texas A&M']: 1
+['Alabama', 'Clemson', 'Iowa', 'Missouri']: 1
+['Alabama', 'Appalachian State', 'Florida', 'Ohio State']: 2
+['Florida', 'Georgia', 'Penn State', 'Washington']: 1
+['Appalachian State', 'Boise State', 'Georgia', 'Wisconsin']: 1
+['Alabama', 'Central Florida', 'Georgia', 'Wisconsin']: 2
+['Clemson', 'Florida', 'Mississippi State', 'Utah']: 1
+['Georgia', 'Memphis', 'Michigan', 'Oklahoma']: 1
+['Louisiana State', 'Michigan', 'Notre Dame', 'Oklahoma']: 1
+['Alabama', 'Ohio State', 'Penn State', 'Texas A&M']: 1
+['Auburn', 'Boise State', 'Clemson', 'Georgia']: 1
+['Alabama', 'Oklahoma', 'Penn State', 'Utah']: 1
+['Alabama', 'Boise State', 'Georgia', 'Mississippi State']: 2
+['Alabama', 'Florida', 'Georgia', 'Oklahoma State']: 1
+['Alabama', 'Appalachian State', 'Boise State', 'Florida']: 2
+['Appalachian State', 'Florida', 'Georgia', 'Wisconsin']: 2
+['Georgia', 'Louisiana State', 'Memphis', 'Wisconsin']: 1
+['Alabama', 'Central Florida', 'Georgia', 'Miami FL']: 2
+['Georgia', 'Ohio State', 'Oklahoma', 'Penn State']: 1
+['Central Florida', 'Louisiana State', 'Ohio State', 'Oklahoma']: 1
+['Alabama', 'Boise State', 'Michigan', 'Penn State']: 2
+['Clemson', 'Georgia', 'Memphis', 'Wisconsin']: 2
+['Florida', 'Georgia', 'Oklahoma', 'Washington']: 1
+['Clemson', 'Georgia', 'Louisiana State', 'Michigan State']: 1
+['Alabama', 'Central Florida', 'Ohio State', 'Washington']: 3
+['Clemson', 'Florida', 'Georgia', 'Mississippi State']: 2
+['Clemson', 'Louisiana State', 'Mississippi State', 'Oklahoma']: 2
+['Appalachian State', 'Auburn', 'Georgia', 'Oklahoma']: 1
+['Alabama', 'Boise State', 'Penn State', 'Wisconsin']: 1
+['Appalachian State', 'Auburn', 'Boise State', 'Georgia']: 1
+['Alabama', 'Boise State', 'Central Florida', 'Washington']: 1
+['Clemson', 'Georgia', 'Oklahoma State', 'Utah']: 1
+['Clemson', 'Florida', 'Mississippi State', 'Washington']: 2
+['Alabama', 'Boise State', 'Florida', 'Michigan State']: 1
+['Alabama', 'Appalachian State', 'Boise State', 'Oklahoma']: 2
+['Clemson', 'Michigan', 'Missouri', 'Notre Dame']: 1
+['Alabama', 'Florida', 'Oklahoma', 'Washington']: 3
+['Georgia', 'Louisiana State', 'Miami FL', 'Washington']: 1
+['Alabama', 'Michigan', 'Oklahoma', 'Washington']: 2
+['Alabama', 'Georgia', 'Oregon', 'Wisconsin']: 1
+['Clemson', 'Florida', 'Georgia', 'Wisconsin']: 3
+['Alabama', 'Clemson', 'Michigan', 'Minnesota']: 1
+['Alabama', 'Florida', 'Oklahoma', 'South Carolina']: 1
+['Clemson', 'Louisiana State', 'Virginia Tech', 'Wisconsin']: 1
+['Clemson', 'Georgia', 'Memphis', 'Ohio State']: 5
+['Alabama', 'Clemson', 'Georgia', 'Washington State']: 4
+['Alabama', 'Florida', 'Ohio State', 'Wisconsin']: 2
+['Clemson', 'Louisiana State', 'Missouri', 'Notre Dame']: 2
+['Appalachian State', 'Georgia', 'Texas A&M', 'Wisconsin']: 1
+['Alabama', 'Florida', 'Oregon', 'Penn State']: 1
+['Alabama', 'Appalachian State', 'Notre Dame', 'Ohio State']: 1
+['Florida', 'Louisiana State', 'Miami FL', 'Western Michigan']: 1
+['Appalachian State', 'Georgia', 'Michigan', 'Utah State']: 1
+['Georgia', 'Louisiana State', 'Miami FL', 'Michigan']: 1
+['Georgia', 'Louisiana State', 'Ohio State', 'Penn State']: 1
+['Alabama', 'Michigan', 'Mississippi State', 'Ohio State']: 1
+['Florida', 'Georgia', 'Louisiana State', 'Texas A&M']: 1
+['Florida', 'Mississippi State', 'Ohio State', 'Texas A&M']: 1
+['Alabama', 'Georgia', 'Oklahoma State', 'Penn State']: 1
+['Alabama', 'Georgia', 'Michigan', 'North Carolina State']: 1
+['Alabama', 'Mississippi State', 'Ohio State', 'Oklahoma']: 2
+['Appalachian State', 'Georgia', 'Mississippi State', 'Ohio State']: 1
+['Boise State', 'Florida', 'Memphis', 'Missouri']: 1
+['Clemson', 'Florida', 'Oregon', 'Penn State']: 1
+['Alabama', 'Florida', 'Ohio State', 'Texas A&M']: 4
+['Alabama', 'Miami FL', 'Utah State', 'Washington']: 1
+['Clemson', 'Louisiana State', 'Oklahoma', 'Southern California']: 1
+['Alabama', 'Central Florida', 'Texas A&M', 'Wisconsin']: 2
+['Central Florida', 'Clemson', 'Georgia', 'Mississippi State']: 2
+['Georgia', 'Mississippi State', 'Ohio State', 'Texas A&M']: 1
+['Alabama', 'Miami FL', 'Michigan', 'Oklahoma']: 2
+['Boise State', 'Clemson', 'Notre Dame', 'Ohio State']: 2
+['Alabama', 'Georgia', 'North Carolina State', 'Washington']: 1
+['Alabama', 'Clemson', 'Michigan', 'Oregon']: 4
+['Alabama', 'Georgia', 'Oklahoma', 'Virginia Tech']: 2
+['Auburn', 'Louisiana State', 'Oklahoma', 'Utah']: 2
+['Alabama', 'Arkansas State', 'Georgia', 'Mississippi State']: 1
+['Georgia', 'Louisiana State', 'Oklahoma', 'Penn State']: 5
+['Baylor', 'Florida', 'Georgia', 'Wisconsin']: 1
+['Alabama', 'Mississippi State', 'Ohio State', 'Penn State']: 2
+['Alabama', 'Boise State', 'Georgia', 'Memphis']: 1
+['Georgia', 'Louisiana State', 'Ohio State', 'Oregon']: 1
+['Boise State', 'Florida', 'Georgia', 'Ohio State']: 1
+['Florida State', 'Georgia', 'Miami FL', 'Utah']: 1
+['Clemson', 'Florida', 'Ohio State', 'Utah']: 1
+['Boise State', 'Florida', 'Ohio State', 'Wisconsin']: 1
+['Alabama', 'Central Florida', 'Notre Dame', 'Oklahoma']: 1
+['Louisiana State', 'Oklahoma', 'Texas A&M', 'Utah']: 1
+['Alabama', 'Oklahoma', 'Penn State', 'Washington State']: 1
+['Alabama', 'Clemson', 'Mississippi State', 'Utah']: 2
+['Louisiana State', 'Michigan', 'Missouri', 'Oklahoma']: 2
+['Florida', 'Mississippi State', 'Ohio State', 'Oklahoma']: 1
+['Alabama', 'Boise State', 'Florida', 'Ohio State']: 1
+['Auburn', 'Florida', 'Georgia', 'Ohio State']: 1
+['Boise State', 'Georgia', 'Louisiana State', 'Wisconsin']: 1
+['Clemson', 'Fresno State', 'Georgia', 'Oklahoma']: 1
+['Alabama', 'Appalachian State', 'Clemson', 'Missouri']: 1
+['Georgia', 'Oklahoma', 'Utah', 'Wisconsin']: 1
+['Alabama', 'Georgia', 'Oklahoma', 'South Carolina']: 1
+['Alabama', 'Louisiana State', 'Missouri', 'Ohio State']: 1
+['Boise State', 'Clemson', 'Louisiana State', 'Wisconsin']: 1
+['Alabama', 'Central Florida', 'Michigan', 'Ohio State']: 1
+['Alabama', 'Louisiana State', 'Michigan State', 'Utah']: 1
+['Alabama', 'Central Florida', 'Georgia', 'Oklahoma State']: 1
+['Clemson', 'Florida', 'Louisiana State', 'Missouri']: 1
+['Clemson', 'Georgia', 'Louisiana State', 'Miami FL']: 1
+['Alabama', 'Auburn', 'Louisiana State', 'Memphis']: 1
+['Alabama', 'Appalachian State', 'Notre Dame', 'Penn State']: 1
+['Alabama', 'Clemson', 'Memphis', 'Wisconsin']: 2
+['Alabama', 'Michigan State', 'Oklahoma', 'Virginia Tech']: 1
+['Alabama', 'Clemson', 'Texas Christian', 'Wisconsin']: 1
+['Alabama', 'North Texas', 'Ohio State', 'Oklahoma']: 1
+['Georgia', 'Ohio State', 'Texas A&M', 'Washington']: 1
+['Alabama', 'Florida', 'Mississippi State', 'Ohio State']: 2
+['Alabama', 'Louisiana State', 'Miami FL', 'Oklahoma']: 2
+['Clemson', 'Louisiana State', 'Missouri', 'Ohio State']: 1
+['Florida', 'Georgia', 'Texas A&M', 'Washington']: 1
+['Alabama', 'Cincinnati', 'Clemson', 'Minnesota']: 1
+['Clemson', 'Georgia', 'Michigan', 'Toledo']: 1
+['Alabama', 'Ohio State', 'Oklahoma', 'Virginia Tech']: 1
+['Georgia', 'Louisiana State', 'Michigan', 'Virginia']: 1
+['Boise State', 'Clemson', 'Louisiana State', 'Ohio State']: 1
+['Alabama', 'Michigan', 'Texas A&M', 'Utah']: 1
+['Auburn', 'Florida', 'Georgia', 'Michigan']: 1
+['Alabama', 'Clemson', 'Florida', 'Western Michigan']: 1
+['Louisiana State', 'Oklahoma', 'Syracuse', 'Texas A&M']: 1
+['Alabama', 'Miami FL', 'Michigan', 'Ohio State']: 1
+['Alabama', 'Central Florida', 'Florida', 'Oklahoma']: 1
+['Alabama', 'Central Florida', 'Georgia', 'Notre Dame']: 1
+['Clemson', 'Ohio State', 'Oklahoma', 'South Carolina']: 1
+['Florida', 'Georgia', 'Louisiana State', 'Washington']: 1
+['Clemson', 'Michigan', 'Mississippi State', 'Washington']: 1
+['Alabama', 'Notre Dame', 'Oklahoma', 'Oregon']: 1
+['Clemson', 'Georgia', 'Ohio State', 'Tennessee']: 1
+['Alabama', 'Appalachian State', 'Ohio State', 'Penn State']: 1
+['Alabama', 'Georgia', 'Iowa', 'Oklahoma']: 1
+['Appalachian State', 'Georgia', 'Louisiana State', 'Notre Dame']: 1
+['Appalachian State', 'Auburn', 'Miami FL', 'Michigan']: 1
+['Georgia', 'Ohio State', 'Texas A&M', 'Utah']: 1
+['Alabama', 'Clemson', 'Florida State', 'Michigan']: 1
+['Auburn', 'Clemson', 'Oklahoma', 'South Carolina']: 1
+['Georgia', 'Louisiana State', 'Michigan', 'Oregon']: 1
+['Boise State', 'Georgia', 'Notre Dame', 'Utah']: 1
+['Alabama', 'Central Florida', 'Clemson', 'Notre Dame']: 1
+['Central Florida', 'Georgia', 'Ohio State', 'Oklahoma']: 1
+['Georgia', 'Louisiana State', 'Mississippi State', 'Missouri']: 1
+['Georgia', 'Louisiana State', 'Oregon', 'Wisconsin']: 1
+['Alabama', 'Appalachian State', 'Oklahoma', 'Penn State']: 1
+['Alabama', 'Florida', 'Ohio State', 'Washington State']: 1
+['Alabama', 'Appalachian State', 'Michigan', 'Wisconsin']: 1
+['Clemson', 'Michigan', 'Mississippi State', 'Missouri']: 1
+['Alabama', 'Boise State', 'Louisiana State', 'Notre Dame']: 1
+['Florida State', 'Georgia', 'Louisiana State', 'Ohio State']: 1
+['Florida', 'Fresno State', 'Ohio State', 'Oklahoma']: 1
+['Clemson', 'Missouri', 'Notre Dame', 'Oklahoma']: 1
+['Alabama', 'Boise State', 'Iowa State', 'Ohio State']: 1
+['Alabama', 'Boise State', 'Oklahoma', 'Oregon']: 1
+['Alabama', 'Miami FL', 'Michigan', 'Notre Dame']: 1
+['Florida', 'Georgia', 'Michigan', 'Mississippi State']: 1
+['Appalachian State', 'Georgia', 'Mississippi State', 'North Texas']: 1
+['Alabama', 'Clemson', 'Oklahoma', 'Texas A&M']: 1
+['Central Florida', 'Florida', 'Louisiana State', 'Oklahoma']: 1
+['Florida', 'Georgia', 'Notre Dame', 'Ohio State']: 1
+['Georgia', 'Iowa', 'Louisiana State', 'Oklahoma']: 1
+['Alabama', 'Louisiana State', 'Michigan', 'Michigan State']: 2
+['Appalachian State', 'Clemson', 'Louisiana State', 'Ohio State']: 1
+['Alabama', 'Arkansas State', 'Clemson', 'Oklahoma']: 1
+['Clemson', 'Michigan', 'Notre Dame', 'Ohio State']: 1
+['Alabama', 'Boise State', 'Clemson', 'Washington']: 1
+['Alabama', 'Clemson', 'Georgia', 'Texas A&M']: 1
+['Alabama', 'Central Florida', 'Clemson', 'Texas A&M']: 1
+['Florida', 'Georgia', 'Louisiana State', 'Utah']: 1
+['Florida', 'Georgia', 'Mississippi State', 'Oklahoma']: 1
+['Georgia', 'Memphis', 'Oklahoma', 'Washington']: 1
+['Alabama', 'Georgia', 'Mississippi State', 'Missouri']: 1
+['Alabama', 'Georgia', 'Memphis', 'Miami FL']: 1
+['Notre Dame', 'Oklahoma', 'Penn State', 'Washington']: 1
+['Alabama', 'Appalachian State', 'Clemson', 'Notre Dame']: 1
+['Boise State', 'Clemson', 'Louisiana State', 'Michigan']: 1
+['Alabama', 'Georgia', 'Oklahoma', 'Washington State']: 1
+['Alabama', 'Auburn', 'Central Florida', 'Ohio State']: 1
+['Clemson', 'Louisiana State', 'Mississippi State', 'Wisconsin']: 1
+['Alabama', 'Memphis', 'Ohio State', 'Virginia Tech']: 1
+['Alabama', 'Central Florida', 'Oklahoma', 'Utah']: 1
+['Georgia', 'Oklahoma', 'Texas A&M', 'Wisconsin']: 1
+['Alabama', 'Auburn', 'Ohio State', 'Penn State']: 2
+['Alabama', 'Georgia', 'Ohio State', 'Virginia Tech']: 1
+['Alabama', 'Appalachian State', 'Oklahoma', 'Oregon']: 1
+['Alabama', 'Central Florida', 'Clemson', 'Miami FL']: 1
+['Alabama', 'Cincinnati', 'Georgia', 'Michigan']: 1
+['Alabama', 'Florida', 'Georgia', 'Utah State']: 1
+['Alabama', 'Louisiana State', 'Michigan State', 'Oklahoma']: 1
+['Alabama', 'Cincinnati', 'Georgia', 'Notre Dame']: 1
+['Clemson', 'Georgia', 'Louisiana State', 'Notre Dame']: 3
+['Alabama', 'Clemson', 'Louisiana State', 'Southern California']: 1
+['Boise State', 'Louisiana State', 'Notre Dame', 'Utah']: 1
+['Alabama', 'Oklahoma', 'Texas', 'Wisconsin']: 1
+['Central Florida', 'Georgia', 'Louisiana State', 'Penn State']: 1
+['Alabama', 'Boise State', 'Louisiana State', 'Memphis']: 1
+['Clemson', 'Louisiana State', 'Utah', 'Wisconsin']: 1
+['Alabama', 'Auburn', 'Clemson', 'Missouri']: 1
+['Alabama', 'Appalachian State', 'Mississippi State', 'Wisconsin']: 1
+['Alabama', 'Louisiana State', 'Miami FL', 'Oregon']: 1
+['Auburn', 'Clemson', 'Georgia', 'Mississippi State']: 1
+['Alabama', 'Auburn', 'Georgia', 'Memphis']: 1
+['Alabama', 'Appalachian State', 'Boise State', 'Georgia']: 2
+['Alabama', 'Florida', 'Memphis', 'Oklahoma']: 1
+['Florida', 'Georgia', 'Ohio State', 'Washington']: 1
+['Clemson', 'Mississippi State', 'Penn State', 'Utah']: 1
+['Georgia', 'Ohio State', 'Oklahoma State', 'Washington']: 1
+['Alabama', 'Appalachian State', 'Florida', 'Notre Dame']: 1
+['Alabama', 'North Carolina State', 'Oklahoma', 'Virginia Tech']: 1
+['Alabama', 'Boise State', 'Georgia', 'Utah']: 2
+['Alabama', 'Boise State', 'Clemson', 'North Texas']: 1
+['Alabama', 'Clemson', 'Louisiana State', 'Missouri']: 1
+['Alabama', 'Clemson', 'Louisiana State', 'North Texas']: 1
+['Georgia', 'Michigan', 'Oklahoma', 'Wisconsin']: 1
+['Alabama', 'Boise State', 'Ohio State', 'Washington']: 1
+['Appalachian State', 'Clemson', 'Ohio State', 'Utah']: 1
+['Auburn', 'Florida', 'Georgia', 'Washington']: 1
+['Alabama', 'Central Florida', 'Florida', 'Michigan']: 1
+['Alabama', 'Boise State', 'Ohio State', 'Washington State']: 1
+['Alabama', 'Florida', 'Georgia', 'Mississippi State']: 2
+['Alabama', 'Appalachian State', 'Auburn', 'Memphis']: 1
+['Alabama', 'Michigan', 'Oregon', 'Washington']: 1
+['Louisiana State', 'Michigan', 'Mississippi State', 'Oklahoma']: 1
+['Alabama', 'Clemson', 'Virginia Tech', 'Wisconsin']: 1
+['Alabama', 'Louisiana State', 'Missouri', 'Wisconsin']: 1
+['Alabama', 'Clemson', 'Florida', 'West Virginia']: 1
+['Clemson', 'Georgia', 'Ohio State', 'Penn State']: 2
+['Alabama', 'Florida', 'Louisiana State', 'Mississippi State']: 1
+['Clemson', 'Georgia', 'Mississippi State', 'Missouri']: 1
+['Louisiana State', 'Notre Dame', 'Oklahoma', 'Texas A&M']: 1
+['Georgia', 'Louisiana State', 'Ohio State', 'Texas A&M']: 1
+['Florida State', 'Georgia', 'Louisiana State', 'Southern California']: 1
+['Alabama', 'Michigan State', 'Oklahoma', 'Penn State']: 1
+['Alabama', 'Boise State', 'Miami FL', 'Ohio State']: 1
+['Boise State', 'Clemson', 'Mississippi State', 'Ohio State']: 1
+['Auburn', 'Clemson', 'Ohio State', 'Oklahoma State']: 1
+['Alabama', 'Notre Dame', 'Penn State', 'Utah State']: 1
+['Alabama', 'Clemson', 'Indiana', 'Missouri']: 1
+['Alabama', 'Appalachian State', 'Clemson', 'Oklahoma State']: 1
+['Alabama', 'Louisiana State', 'Ohio State', 'Washington State']: 1
+['Alabama', 'Florida', 'Utah', 'Wisconsin']: 1
+['Alabama', 'Boise State', 'Clemson', 'Utah']: 1
+['Georgia', 'Mississippi State', 'Missouri', 'Oklahoma']: 1
+['Georgia', 'Miami FL', 'Minnesota', 'Mississippi State']: 1
+['Alabama', 'Louisiana State', 'Miami FL', 'Notre Dame']: 2
+['Alabama', 'Clemson', 'Michigan State', 'Oklahoma']: 1
+['Alabama', 'Florida', 'Michigan', 'Wisconsin']: 1
+['Clemson', 'Notre Dame', 'Ohio State', 'Oklahoma']: 1
+['Appalachian State', 'Auburn', 'Michigan', 'Notre Dame']: 1
+['Alabama', 'Boise State', 'Notre Dame', 'Ohio State']: 1
+['Alabama', 'Appalachian State', 'Florida', 'Wisconsin']: 1
+['Alabama', 'Boise State', 'Oklahoma', 'Washington']: 1
+['Florida', 'Ohio State', 'Oklahoma', 'Oregon']: 1
+['Alabama', 'Appalachian State', 'Georgia', 'Washington']: 1
+['Alabama', 'Appalachian State', 'Florida', 'Oklahoma State']: 1
+['Alabama', 'Auburn', 'Boise State', 'Ohio State']: 1
+['Alabama', 'Central Florida', 'Kentucky', 'Michigan']: 1
+['Clemson', 'Georgia', 'Mississippi State', 'Wisconsin']: 1
+['Alabama', 'Memphis', 'Oklahoma', 'Oregon']: 1
+['Alabama', 'Clemson', 'Eastern Michigan', 'Louisiana State']: 1
+['Alabama', 'Boise State', 'Louisiana State', 'Michigan']: 1
+['Georgia', 'Ohio State', 'Oklahoma State', 'Oregon']: 1
+['Alabama', 'Florida', 'Georgia', 'Louisiana State']: 2
+['Alabama', 'Auburn', 'Notre Dame', 'Wisconsin']: 1
+['Alabama', 'Clemson', 'Michigan', 'Texas A&M']: 1
+['Alabama', 'Central Florida', 'Georgia', 'Michigan']: 2
+['Alabama', 'Georgia', 'Louisiana State', 'Oregon']: 1
+['Alabama', 'Boise State', 'Washington', 'Wisconsin']: 1
+['Alabama', 'Central Florida', 'Louisiana State', 'Ohio State']: 1
+['Georgia', 'Miami FL', 'Mississippi State', 'Penn State']: 1
+['Alabama', 'Mississippi State', 'Notre Dame', 'Washington']: 1
+['Alabama', 'Clemson', 'Notre Dame', 'Washington State']: 1
+['Alabama', 'Louisiana State', 'Louisiana Tech', 'Oklahoma']: 1
+['Boise State', 'Georgia', 'Louisiana State', 'Washington']: 1
+['Alabama', 'Appalachian State', 'Clemson', 'Mississippi State']: 1
+['Alabama', 'Appalachian State', 'Iowa', 'Texas A&M']: 1
+['Alabama', 'Arkansas State', 'Washington', 'Wisconsin']: 1
+['Alabama', 'Auburn', 'Notre Dame', 'Oregon']: 1
+['Alabama', 'Georgia', 'Louisiana State', 'Michigan State']: 1
+['Auburn', 'Georgia', 'Mississippi State', 'Ohio State']: 1
+['Clemson', 'Missouri', 'Ohio State', 'Oklahoma']: 1
+['Auburn', 'Georgia', 'Memphis', 'Ohio State']: 1
+['Alabama', 'Appalachian State', 'Louisiana State', 'Wisconsin']: 1
+['Appalachian State', 'Auburn', 'Clemson', 'Oklahoma']: 1
+['Alabama', 'Mississippi State', 'Notre Dame', 'Ohio State']: 1
+['Central Florida', 'Georgia', 'Oklahoma', 'Wisconsin']: 1
+['Alabama', 'Appalachian State', 'Oklahoma', 'Texas A&M']: 1
+['Alabama', 'Florida State', 'Ohio State', 'Penn State']: 1
+['Alabama', 'Georgia', 'Mississippi State', 'Oklahoma State']: 1
+['Alabama', 'Appalachian State', 'Boise State', 'Missouri']: 1
+['Georgia', 'Louisiana State', 'Michigan', 'Notre Dame']: 1
+['Central Florida', 'Clemson', 'Georgia', 'Michigan']: 1
+['Alabama', 'Georgia', 'Oklahoma', 'San Diego State']: 1
+['Alabama', 'Georgia', 'Michigan', 'Texas Christian']: 1
+['Appalachian State', 'Georgia', 'Louisiana State', 'Penn State']: 1
+['Alabama', 'Georgia', 'Utah State', 'Wisconsin']: 1
+['Alabama', 'Florida', 'Michigan State', 'Ohio State']: 1
+['Alabama', 'Appalachian State', 'Clemson', 'Memphis']: 1
+['Alabama', 'Clemson', 'Florida', 'Michigan State']: 1
+['Alabama', 'Florida State', 'Georgia', 'Texas A&M']: 1
+['Florida', 'Notre Dame', 'Oklahoma', 'Texas A&M']: 1
+['Alabama', 'Appalachian State', 'Georgia', 'Memphis']: 1
+['Alabama', 'Central Florida', 'Florida', 'Miami FL']: 1
+['Alabama', 'Auburn', 'Michigan', 'Washington']: 1
+['Clemson', 'Louisiana State', 'Memphis', 'Ohio State']: 1
+['Alabama', 'Cincinnati', 'Georgia', 'Washington']: 1
+['Alabama', 'Cincinnati', 'Ohio State', 'Utah']: 1
+['Alabama', 'Georgia', 'Miami FL', 'Mississippi State']: 1
+['Alabama', 'Clemson', 'Georgia', 'San Diego State']: 2
+['Appalachian State', 'Florida', 'Michigan', 'Washington']: 1
+['Alabama', 'Louisiana State', 'Missouri', 'Oklahoma']: 1
+['Alabama', 'Auburn', 'Georgia', 'Penn State']: 2
+['Alabama', 'Georgia', 'Tennessee', 'Wisconsin']: 1
+['Alabama', 'Clemson', 'Oregon', 'Wisconsin']: 1
+['Alabama', 'Georgia', 'Iowa', 'Ohio State']: 1
+['Clemson', 'Michigan', 'Michigan State', 'Oklahoma']: 1
+['Alabama', 'Army', 'Clemson', 'Notre Dame']: 1
+['Alabama', 'Central Florida', 'Louisiana State', 'Penn State']: 1
+['Alabama', 'Ohio State', 'Oklahoma', 'Virginia']: 1
+['Alabama', 'Notre Dame', 'Oklahoma', 'Texas A&M']: 1
+['Alabama', 'Georgia', 'Oklahoma', 'Oregon']: 1
+['Florida', 'Memphis', 'Michigan', 'Oklahoma']: 1
+['Auburn', 'Clemson', 'Ohio State', 'Penn State']: 1
+['Alabama', 'Army', 'Clemson', 'Oklahoma']: 1
+['Alabama', 'Louisiana State', 'Utah', 'Wisconsin']: 1
+['Alabama', 'Appalachian State', 'Auburn', 'Georgia']: 1
+['Auburn', 'Clemson', 'Georgia', 'Michigan']: 1
+['Appalachian State', 'Clemson', 'Florida', 'Penn State']: 1
+['Clemson', 'Georgia', 'Memphis', 'Michigan']: 1
+['Clemson', 'Ohio State', 'Oklahoma', 'Wisconsin']: 1
+['Appalachian State', 'Boise State', 'Georgia', 'Louisiana State']: 1
+['Army', 'Georgia', 'Notre Dame', 'Oklahoma']: 1
+['Georgia', 'Miami FL', 'Ohio State', 'Wisconsin']: 1
+['Boise State', 'Clemson', 'Mississippi State', 'Notre Dame']: 1
+['Clemson', 'Louisiana State', 'Michigan', 'Oregon']: 1
+['Georgia', 'Oklahoma', 'Texas A&M', 'Washington']: 1
+['Alabama', 'Georgia', 'Miami FL', 'Wisconsin']: 1
+['Georgia', 'Texas A&M', 'Utah', 'Wisconsin']: 1
+['Alabama', 'Clemson', 'Indiana', 'Oklahoma']: 1
+['Clemson', 'Mississippi State', 'Ohio State', 'Oklahoma State']: 1
+['Alabama', 'Clemson', 'Florida', 'Texas A&M']: 2
+['Auburn', 'Central Florida', 'Georgia', 'Michigan']: 1
+['Alabama', 'Louisiana State', 'Washington', 'Wisconsin']: 1
+['Louisiana State', 'Miami FL', 'Notre Dame', 'Washington']: 1
+['Alabama', 'Ohio State', 'Penn State', 'Washington']: 1
+['Florida', 'Louisiana State', 'Oklahoma', 'Wisconsin']: 1
+['Alabama', 'Central Florida', 'Florida', 'Mississippi State']: 1
+['Alabama', 'Memphis', 'Mississippi State', 'Oklahoma']: 1
+['Alabama', 'Florida State', 'Georgia', 'Michigan State']: 1
+['Alabama', 'Arkansas State', 'Central Florida', 'Clemson']: 1
+['Louisiana State', 'Michigan', 'Missouri', 'Notre Dame']: 1
+['Alabama', 'Auburn', 'Central Florida', 'Clemson']: 2
+['Central Florida', 'Louisiana State', 'Missouri', 'Wisconsin']: 1
+['Auburn', 'Boise State', 'Central Florida', 'Louisiana State']: 1
+['Central Florida', 'Georgia', 'Michigan', 'Ohio State']: 1
+['Alabama', 'Clemson', 'Louisiana Tech', 'Ohio State']: 1
+['Alabama', 'Appalachian State', 'Georgia', 'Oregon']: 1
+['Clemson', 'Florida', 'Mississippi State', 'Ohio State']: 1
+['Alabama', 'Boise State', 'Clemson', 'Miami FL']: 1
+['Alabama', 'Baylor', 'Boise State', 'Ohio State']: 1
+['Alabama', 'Clemson', 'Fresno State', 'Michigan']: 1
+['Alabama', 'Army', 'Georgia', 'Louisiana State']: 1
+['Georgia', 'Ohio State', 'Texas A&M', 'Utah State']: 1
+['Auburn', 'Georgia', 'Michigan', 'Wisconsin']: 1
+['Alabama', 'Florida', 'Georgia', 'Toledo']: 1
+['Alabama', 'Michigan', 'Oklahoma', 'Syracuse']: 1
+['Alabama', 'Appalachian State', 'Auburn', 'Ohio State']: 1
+['Clemson', 'Georgia', 'Memphis', 'Virginia']: 1
+['Alabama', 'Brigham Young', 'Georgia', 'Wisconsin']: 1
+['Georgia', 'Iowa', 'Mississippi State', 'Ohio State']: 1
+['Auburn', 'Georgia', 'Oklahoma', 'Penn State']: 1
+['Auburn', 'Georgia', 'Michigan', 'Washington State']: 1
+['Alabama', 'Iowa', 'Louisiana State', 'Oklahoma']: 1
+['Alabama', 'Central Florida', 'Florida', 'Ohio State']: 1
+['Central Florida', 'Georgia', 'Louisiana State', 'Utah']: 1
+['Auburn', 'Georgia', 'Texas A&M', 'Texas Christian']: 1
+['Alabama', 'Appalachian State', 'Georgia', 'Wisconsin']: 1
+['Alabama', 'Appalachian State', 'Boise State', 'Washington']: 1
+['Appalachian State', 'Auburn', 'Clemson', 'Louisiana State']: 1
+['Alabama', 'Louisiana State', 'Michigan', 'Utah']: 1
+['Boise State', 'Memphis', 'Mississippi State', 'Oklahoma']: 1
+['Alabama', 'Georgia', 'Ohio State', 'Oregon']: 1
+['Georgia', 'Louisiana State', 'Missouri', 'Utah']: 1
+['Alabama', 'Louisiana State', 'Oregon', 'Wisconsin']: 1
+['Alabama', 'Clemson', 'Washington State', 'Wisconsin']: 1
+['Alabama', 'Auburn', 'Michigan State', 'Oklahoma']: 1
+['Clemson', 'Iowa', 'Louisiana State', 'Oklahoma']: 1
+['Alabama', 'Appalachian State', 'Cincinnati', 'Wisconsin']: 1
+['Florida', 'Louisiana State', 'Michigan', 'Oklahoma']: 1
+['Alabama', 'Army', 'Michigan', 'Washington']: 1
+['Alabama', 'Central Florida', 'Georgia', 'Texas Christian']: 1
+['Central Florida', 'Clemson', 'Louisiana State', 'Ohio State']: 1
+['Clemson', 'Louisiana State', 'Michigan', 'Washington']: 1
+['Boise State', 'Clemson', 'Georgia', 'Washington']: 1
+['Georgia', 'Mississippi State', 'Notre Dame', 'Oklahoma']: 1
+['Georgia', 'Louisiana State', 'Memphis', 'Oregon']: 1
+['Alabama', 'Florida', 'Miami FL', 'Oklahoma']: 2
+['Clemson', 'Georgia', 'Louisiana State', 'Virginia']: 1
+['Louisiana State', 'Memphis', 'Michigan', 'Mississippi State']: 1
+['Alabama', 'Georgia', 'Memphis', 'North Carolina State']: 1
+['Alabama', 'Mississippi State', 'Oklahoma', 'Texas A&M']: 1
+['Georgia', 'Louisiana State', 'Missouri', 'Washington']: 1
+['Auburn', 'Georgia', 'Utah', 'Wisconsin']: 1
+['Alabama', 'Georgia', 'Mississippi State', 'Penn State']: 1
+['Louisiana State', 'Notre Dame', 'Washington', 'Wisconsin']: 1
+['Central Florida', 'Clemson', 'Georgia', 'Louisiana State']: 1
+['Auburn', 'Georgia', 'Mississippi State', 'Utah']: 1
+['Appalachian State', 'Georgia', 'Notre Dame', 'Oklahoma']: 1
+['Georgia', 'Louisiana State', 'Oklahoma', 'Washington']: 1
+['Clemson', 'Florida', 'Oklahoma', 'Washington State']: 1
+['Alabama', 'Florida', 'North Texas', 'Washington']: 1
+['Alabama', 'Appalachian State', 'Notre Dame', 'Oklahoma']: 1
+['Alabama', 'Army', 'Florida', 'Georgia']: 1
+['Alabama', 'Florida', 'Miami FL', 'Ohio State']: 1
+['Georgia', 'Oklahoma', 'Oregon', 'Utah State']: 1
+['Alabama', 'Clemson', 'Georgia', 'Texas Christian']: 1
+['Alabama', 'Brigham Young', 'Clemson', 'Georgia']: 1
+['Auburn', 'Boise State', 'Clemson', 'Mississippi State']: 1
+['Alabama', 'Florida', 'Texas A&M', 'Washington']: 1
+['Florida', 'Louisiana State', 'Missouri', 'Ohio State']: 1
+['Alabama', 'Auburn', 'Clemson', 'Miami FL']: 1
+['Boise State', 'Louisiana State', 'Michigan', 'Washington']: 1
+['Central Florida', 'Georgia', 'Louisiana State', 'Washington']: 1
+['Auburn', 'Louisiana State', 'Oklahoma', 'Washington']: 1
+['Georgia', 'Louisiana State', 'Memphis', 'Notre Dame']: 1
+['Alabama', 'Clemson', 'Miami FL', 'Ohio State']: 1
