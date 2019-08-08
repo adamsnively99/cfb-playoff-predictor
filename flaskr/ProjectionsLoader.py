@@ -3,7 +3,6 @@ from string_formatter import format_team_name
 from team import Team
 
 
-# TODO: Organize project into folders according to Python standards
 # Returns dictionary of teams loaded from S&P+ projections CSV file specified by season in Settings.py
 def load_projections():
     teams = {}

@@ -1,5 +1,5 @@
 # TODO: Clean up Constants.py and Settings.py
-simulate_season = '2018'
+simulate_season = '2019'
 simulation_count = 1000
 format_schedule_season = '2018'
 data_folder_path = 'static/'

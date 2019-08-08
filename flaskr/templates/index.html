@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"/>
     <title>College Football Playoff Predictor</title>
     <meta charset="utf-8"/>
 </head>
@@ -14,11 +15,11 @@
         <th>Playoff Odds</th>
     </tr>
 
-    {% for team in {{ teams }} %}
+    {% for team in teams %}
     <tr>
-        <td>team.name</td>
-        <td>team.rating</td>
-        <td>team.playoff_berths</td>
+        <td>{{ teams.get(team).name }}</td>
+        <td>{{ teams.get(team).rating }}</td>
+        <td>{{ teams.get(team).playoff_berths / 1000 }}</td>
     </tr>
     {% endfor %}
 </table>
