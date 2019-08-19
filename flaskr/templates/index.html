@@ -1,17 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"/>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
     <title>College Football Playoff Predictor</title>
-    <meta charset="utf-8"/>
+    <meta charset="utf-8" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="{{ url_for('static', filename='javascript/table.js') }}"></script>
 </head>
+
 <body>
     <div class="content">
         <header>Welcome to the College Football Playoff Projector!</header>
         <h2>Brought to you by S&P+, by Bill Connelly!</h2>
         <table>
             <tr>
-                <th colspan="4">Projections for 2016</th>
+                <th colspan="4">Projections for 2019</th>
             </tr>
             <tr>
                 <th>Team</th>
@@ -24,11 +28,12 @@
             <tr>
                 <td class="key">{{ teams.get(team).name }}</td>
                 <td class="value">{{ teams.get(team).rating }}</td>
-                <td class="value">{{ teams.get(team).playoff_berths / 500 }}</td>
-                <td class="value">{{ teams.get(team).conf_titles / 500 }}</td>
+                <td class="data-cell">{{ teams.get(team).playoff_berths / sim_count }}</td>
+                <td class="data-cell">{{ teams.get(team).conf_titles / sim_count }}</td>
             </tr>
             {% endfor %}
         </table>
     </div>
 </body>
 
+</html>
