@@ -47,14 +47,11 @@ def project_playoff(simulation_count):
     avg_top_team = SeasonSimulator.calc_avg_top_team(teams)
 
     for i in range(simulation_count):
-        print(i)
         SeasonSimulator.simulate_season(teams, schedule, stdev_ratings, avg_top_team)
         playoff = PlayoffPredictor.get_best_records(teams, 4)
         update_playoff_appearance_counts(team_playoff_appearances, playoff, teams)
         update_playoff_field_counts(playoff_field_counts, playoff)
         reset_teams(teams)
-    print(type(teams))
-    print(str(teams))
     return teams
 
 """while len(team_playoff_appearances) > 0:
