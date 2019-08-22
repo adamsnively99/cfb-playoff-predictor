@@ -6,6 +6,6 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    count = 1000
+    count = 100
     teams = project_playoff(count)
     return render_template('index.html', teams=teams, sim_count=count)

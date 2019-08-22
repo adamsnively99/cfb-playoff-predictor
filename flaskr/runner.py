@@ -1,7 +1,7 @@
 import ProjectionsLoader
 import ScheduleLoader
-import SeasonSimulator
 import PlayoffPredictor
+from Simulation import Simulation
 import Settings
 
 
@@ -39,20 +39,9 @@ def reset_teams(teams):
 
 def project_playoff(simulation_count):
     # TODO: Multithread these simulations
-    team_playoff_appearances = {}
-    playoff_field_counts = {}
-    teams = ProjectionsLoader.load_projections()
-    schedule = ScheduleLoader.load_schedule(teams)
-    stdev_ratings = SeasonSimulator.calc_stdev_ratings(teams)
-    avg_top_team = SeasonSimulator.calc_avg_top_team(teams)
+    simulation = Simulation(2019, simulation_count)
+    return simulation.run()
 
-    for i in range(simulation_count):
-        SeasonSimulator.simulate_season(teams, schedule, stdev_ratings, avg_top_team)
-        playoff = PlayoffPredictor.get_best_records(teams, 4)
-        update_playoff_appearance_counts(team_playoff_appearances, playoff, teams)
-        update_playoff_field_counts(playoff_field_counts, playoff)
-        reset_teams(teams)
-    return teams
 
 """while len(team_playoff_appearances) > 0:
     team = get_most_playoff(team_playoff_appearances)
