@@ -16,7 +16,7 @@ AAC_EAST = ('Cincinnati', 'East Carolina', 'South Florida', 'Temple', 'Central F
 MWC_MOUNTAIN = ('Air Force', 'Boise State', 'Colorado State', 'New Mexico', 'Utah State', 'Wyoming')
 MWC_WEST = ('Fresno State', 'Nevada', 'Hawaii', 'Nevada-Las Vegas', 'San Diego State', 'San Jose State')
 SUN_BELT_WEST = ('Arkansas State', 'Louisiana', 'Louisiana-Monroe', 'South Alabama', 'Texas State')
-SUN_BELT_EAST =('Coastal Carolina', 'New Mexico State', 'Appalachian State', 'Georgia Southern', 'Georgia State', 'Troy')
+SUN_BELT_EAST = ('Coastal Carolina', 'New Mexico State', 'Appalachian State', 'Georgia Southern', 'Georgia State', 'Troy')
 SUN_BELT = ('Arkansas State', 'Louisiana', 'Louisiana-Monroe', 'South Alabama', 'Texas State',
                  'New Mexico State', 'Appalachian State', 'Georgia Southern', 'Georgia State', 'Troy')
 CUSA_WEST = ('Louisiana Tech', 'North Texas', 'Rice', 'Southern Mississippi', 'Texas-El Paso', 'Texas-San Antonio', "Alabama-Birmingham")

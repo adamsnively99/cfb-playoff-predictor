@@ -12,27 +12,50 @@
 <body>
     <div class="content">
         <header>Welcome to the College Football Playoff Projector!</header>
-        <h2>Brought to you by S&P+, by Bill Connelly!</h2>
-        <table>
-            <tr>
-                <th colspan="4">Projections for 2019</th>
-            </tr>
-            <tr>
-                <th>Team</th>
-                <th>Rating</th>
-                <th>Playoff Odds</th>
-                <th>Conference<br>Title Odds</th>
-            </tr>
+        <h2>Brought to you by SP+, by ESPN!</h2>
 
-            {% for team in teams %}
-            <tr>
-                <td class="key">{{ teams.get(team).name }}</td>
-                <td class="value">{{ teams.get(team).rating }}</td>
-                <td class="data-cell">{{ teams.get(team).playoff_berths / sim_count }}</td>
-                <td class="data-cell">{{ teams.get(team).conf_titles / sim_count }}</td>
-            </tr>
-            {% endfor %}
-        </table>
+        <div class="data-table">
+            <table>
+                <tr>
+                    <th colspan="4">Team Projections for 2019</th>
+                </tr>
+                <tr>
+                    <th>Team</th>
+                    <th>Rating</th>
+                    <th>Playoff Odds</th>
+                    <th>Conference<br>Title Odds</th>
+                </tr>
+
+                {% for team in teams %}
+                <tr>
+                    <td class="key">{{ teams.get(team).name }}</td>
+                    <td class="value">{{ teams.get(team).rating }}</td>
+                    <td class="data-cell">{{ teams.get(team).playoff_berths / sim_count }}</td>
+                    <td class="data-cell">{{ teams.get(team).conf_titles / sim_count }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+        <br><br>
+
+        <div class="data-table">
+            <table>
+                <tr>
+                    <th colspan="4">Playoff Field Projections for 2019</th>
+                </tr>
+                <tr>
+                    <th>Field</th>
+                    <th>Odds</th>
+                </tr>
+
+                {% for field in playoff_fields %}
+                <tr>
+                    <td class="key">{{ field[1] }}</td>
+                    <td class="data-cell">{{ field[0] }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
     </div>
 </body>
 

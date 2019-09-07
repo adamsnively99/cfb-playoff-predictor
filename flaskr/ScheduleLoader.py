@@ -24,6 +24,8 @@ def add_game_to_schedule(teams, game_input, schedule):
     game = Game(home_team, away_team, is_neutral_site(game_input))
     if len(game_input[6]) > 0 and len(game_input[9]) > 0 and Settings.use_played_games:
         game.set_outcome(team_b, team_a)
+    print(team_a)
+    print(team_b)
     schedule.append(game)
 
 

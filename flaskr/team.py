@@ -16,7 +16,6 @@ class Team:
         self.losses_to = []
 
     def update_record(self, opponent, top_team_odds, win):
-        old_sor = self.strength_of_record
         if win:
             self.wins_over.append(opponent.name)
             self.strength_of_record *= top_team_odds
